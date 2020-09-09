@@ -7,12 +7,12 @@ Alternative splicing:
 2. NetGene2 - http://www.cbs.dtu.dk/services/NetGene2/
 
 Cancer databases:
-3. CCLE - https://portals.broadinstitute.org/ccle
-4. TCGA data Portal - https://www.cancer.gov/
+1. CCLE - https://portals.broadinstitute.org/ccle
+2. TCGA data Portal - https://www.cancer.gov/
 
 Comparative databases:
-5. TISSUES - https://tissues.jensenlab.org/Search
-6. ToppCluster - https://toppcluster.cchmc.org/
+1. TISSUES - https://tissues.jensenlab.org/Search
+2. ToppCluster - https://toppcluster.cchmc.org/
 
 
 
