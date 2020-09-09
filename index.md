@@ -2,7 +2,7 @@
 
 To evaluate the top tools provided in our study, we explore ACE2 data with the following databases and tools:
 
-1. ASPicDB - (http://srv00.recas.ba.infn.it/ASPicDB/)
+1. ASPicDB - http://srv00.recas.ba.infn.it/ASPicDB/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
