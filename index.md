@@ -2,7 +2,20 @@
 
 To evaluate the top tools provided in our study, we explore ACE2 data with the following databases and tools:
 
+Alternative splicing:
 1. ASPicDB - http://srv00.recas.ba.infn.it/ASPicDB/
+2. NetGene2 - http://www.cbs.dtu.dk/services/NetGene2/
+
+Cancer databases:
+3. CCLE - https://portals.broadinstitute.org/ccle
+4. TCGA data Portal - https://www.cancer.gov/
+
+Comparative databases:
+5. TISSUES - https://tissues.jensenlab.org/Search
+6. ToppCluster - https://toppcluster.cchmc.org/
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
