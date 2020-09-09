@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+### Case study: Exploratory ACE2 analysis using multi-omic web tools
 
 You can use the [editor on GitHub](https://github.com/Kur1sutaru/fantastic_databases_and_where_to_find_them/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
