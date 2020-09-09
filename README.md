@@ -21,6 +21,11 @@ Our goal is to provide an opportunity for exploring large datasets and analyzing
 
 We analyzed databases and tools retrieved from Omictools and Bio.tools
 
-Enjoy our work 
+Enjoy our work! :D
+
+##Funding##
+
+We would like to thank Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) for the fellowships provided to GCVS (Process no.: 148615/2018-0) and UM (Process no.: 312714/2018-1). We also thank FIPE/HCPA (Project Number 2019-0761) for financial support.
+
 
 Please, if you used any database, cite us: xxxxxxxx
