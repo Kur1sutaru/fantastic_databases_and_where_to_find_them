@@ -18,7 +18,32 @@ Comparative databases:
 Here we provide the complete list of databases:
 
 Database | URL
-Content from cell 1 | Content from cell 2
+AltExtron | http://bioinformatics.org.au/tools/altExtron/
+AS-ALPS | http://as-alps.nagahama-i-bio.ac.jp/index.php
+
+ASpedia 
+ASPicDB
+BrainRNA-seq
+DBASS
+EDAS
+FAST DB
+FLJ DB
+H-DBAS
+HEXEvent
+HOLLYWOOD
+HSF*
+HYBRIDdb
+IntSplice
+IsoFunc
+MiasDB
+NetGene2
+NetUTR
+PALS DB
+SpliceInfo
+SplicePort 
+SpliceProt
+TassDB
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
