@@ -71,7 +71,7 @@ MERAV        | <http://merav.wi.mit.edu/>                                       
 MethmiRbase  |<https://madlab.cpe.ku.ac.th/TR2/?itemID=108747>                              |
 MGDB         |<http://bioinfo.ahu.edu.cn:8080/Melanoma/>                                    |
 MiRCancer    |<http://mircancer.ecu.edu/>                                                   |
-MiTranscript |<http://mitranscriptome.org/                                                  |
+MiTranscript |<http://mitranscriptome.org/>                                                  |
 MSGene       |<http://msgene.bioinfo-minzhao.org/>                                          |
 MTCTScan     |<http://mulinlab.org/mtctscan>                                                |
 NCI ALMANAC  |<https://dtp.cancer.gov/ncialmanac/initializePage.do>                         |
