@@ -572,146 +572,75 @@ VMH          |<https://vmh.life/>                                               
 
 **Database** |                  **URL**                                                                               |
 2D-PAGE      |<http://web.mpiib-berlin.mpg.de/cgi-bin/pdbs/2d-page/extern/index.cgi>                                  |
-AMPAD Portal |<https://www.synapse.org/#!Synapse:syn2580853/wiki/409840
-BioCarta     |<http://www.biocarta.com/
-BRD	         |<https://brd.nci.nih.gov/brd/
-Calcium Gene |<http://cagedb.uhlenlab.org/
-CCInteractome|<http://interactome.dfci.harvard.edu/
-CIDeR        |<http://mips.helmholtz-muenchen.de/cider/
-ComPPI       |<https://comppi.linkgroup.hu/
-dbDEPC	     |<https://www.scbit.org/dbdepc3/index.php
-Degradome db |<http://degradome.uniovi.es/
-DenHunt	     |<http://proline.biochem.iisc.ernet.in/DenHunt/about_database.php
-DEPhOsphorylation|<http://depod.bioss.uni-freiburg.de/
-DIIP         |<http://bioinfo.lab.mcgill.ca/resources/diip/
-HADb         |<http://autophagy.lu/index.html
-HAPPI	       |<http://discovery.informatics.uab.edu/HAPPI/
-HERVd 	     |<https://herv.img.cas.cz/
-HGPD	       |<https://hgpd.lifesciencedb.jp/cgi/
-HKUPP	       |<http://www.hkupp.org/
-HMMER3 	     |<https://www.ebi.ac.uk/Tools/hmmer/
-HPID	       |<http://wilab.inha.ac.kr/hpid/webforms/intro.aspx
-HuInteractome |<http://www.actrec.gov.in/
-Human PPI    |<https://gene.sfari.org/
-HumProteinpedia|<http://www.humanproteinpedia.org
-HumanNet	   |<http://www.functionalnet.org/humannet/about.html
-HuPho      	 |<http://hupho.uniroma2.it/index.php
-HuPI	       |<https://hupi.ircm.qc.ca/
-HuRI         |<http://www.interactome-atlas.org/
-HydPred 	   |<http://lishuyan.lzu.edu.cn/hydpred/
-HypoxiaDB    |<http://www.hypoxiadb.com/hypoxiadb.html
-iLoc-Cell    |<http://www.jci-bioinfo.cn/iLoc-Hum
-Instruct	   |<http://instruct.yulab.org/
-Integrated Interactions |<http://dcv.uhnres.utoronto.ca/iid/
-InWeb_IM |<https://www.intomics.com/inbio/map.html#search
-KEGG PATHWAY |<	https://www.kegg.jp/
-KinMap*	http://www.kinhub.org/kinmap/
-Kinome NetworkX	http://www.kinasenet.ca/
-KLIFS	https://klifs.vu-compmedchem.nl/
-Labeledln	https://ftp.ncbi.nlm.nih.gov/pub/lu/LabeledIn/
-Ligandbook	https://ligandbook.org
-Membranome*	https://membranome.org/
-MiasDB	http://47.88.84.236/Miasdb/index.php
-MitoP2	http://www.mitop2.de/
-mLASSO-Hum	http://bioinfo.eie.polyu.edu.hk/mLASSOHumServer/index.html
-NetNGlyc 	http://www.cbs.dtu.dk/services/NetNGlyc/
-neXtProt*	https://www.nextprot.org/about/nextprot
-PaPI 	http://papi.unipv.it/
-PCDq	http://h-invitational.jp/hinv/pcdq/
-PDID*	http://biomine.cs.vcu.edu/servers/PDID/index.php
-PepSweetener 	https://glycoproteome.expasy.org/pepsweetener/app/
-PhosphoPICK 	http://bioinf.scmb.uq.edu.au/phosphopick/phosphopick
-PhosphoPredict 	http://phosphopredict.erc.monash.edu/
-PhosphOrtholog 	http://www.phosphortholog.com/
-PIPs 	http://www.compbio.dundee.ac.uk/www-pips/index.jsp
-PrePPI	https://bhapp.c2b2.columbia.edu/PrePPI/index.html
-ProKinO	http://vulcan.cs.uga.edu/prokino/about/browser
-ProteomicsDB*	https://www.proteomicsdb.org/
-Quokka*	http://quokka.erc.monash.edu/
-RasMol 	http://www.bernstein-plus-sons.com/software/rasmol/
-ScaPD 	http://bioinfo.wilmer.jhu.edu/ScaPD/
-SMPDB	https://smpdb.ca/view/SMP0000179
-SpindleP 	http://www.cbs.dtu.dk/services/SpindleP/
-StSNP 	http://ilyinlab.org/StSNP/
-SubPhosPred 	http://bioinfo.ncu.edu.cn/SubPhosPred.aspx
-SURFY 	http://wlab.ethz.ch/surfaceome/
-The Proteome Browser*	http://proteomebrowser.org/tpb/home.jspx
-TissueNet	http://netbio.bgu.ac.il/tissuenet/
-TRI_tool 	https://www.vin.bg.ac.rs/180/tools/tfpred.php
-UniHI	http://www.unihi.org/
-VDJsolver 	http://www.cbs.dtu.dk/services/VDJsolver/
-VHLdb 	http://vhldb.bio.unipd.it/
-	http://web.mpiib-berlin.mpg.de/cgi-bin/pdbs/2d-page/extern/index.cgi
-AMPAD Knowledge Portal 	https://www.synapse.org/#!Synapse:syn2580853/wiki/409840
-BioCarta*	http://www.biocarta.com/
-BRD	https://brd.nci.nih.gov/brd/
-Calcium Gene Database 	http://cagedb.uhlenlab.org/
-CCSB Interactome*	http://interactome.dfci.harvard.edu/
-CIDeR*	http://mips.helmholtz-muenchen.de/cider/
-ComPPI	https://comppi.linkgroup.hu/
-dbDEPC	https://www.scbit.org/dbdepc3/index.php
-Degradome database	http://degradome.uniovi.es/
-DenHunt	http://proline.biochem.iisc.ernet.in/DenHunt/about_database.php
-DEPhOsphorylation database	http://depod.bioss.uni-freiburg.de/
-DIIP*	http://bioinfo.lab.mcgill.ca/resources/diip/
-HADb	http://autophagy.lu/index.html
-HAPPI	http://discovery.informatics.uab.edu/HAPPI/
-HERVd 	https://herv.img.cas.cz/
-HGPD	https://hgpd.lifesciencedb.jp/cgi/
-HKUPP	http://www.hkupp.org/
-HMMER3 	https://www.ebi.ac.uk/Tools/hmmer/
-HPID	http://wilab.inha.ac.kr/hpid/webforms/intro.aspx
-Human Interactome Map	http://www.actrec.gov.in/
-Human PPI network	https://gene.sfari.org/
-Human Proteinpedia	http://www.humanproteinpedia.org
-HumanNet	http://www.functionalnet.org/humannet/about.html
-HuPho	http://hupho.uniroma2.it/index.php
-HuPI	https://hupi.ircm.qc.ca/
-HuRI*	http://www.interactome-atlas.org/
-HydPred 	http://lishuyan.lzu.edu.cn/hydpred/
-HypoxiaDB*	http://www.hypoxiadb.com/hypoxiadb.html
-iLoc-Cell	http://www.jci-bioinfo.cn/iLoc-Hum
-Instruct	http://instruct.yulab.org/
-Integrated Interactions Database	http://dcv.uhnres.utoronto.ca/iid/
-InWeb_IM*	https://www.intomics.com/inbio/map.html#search
-KEGG PATHWAY*	https://www.kegg.jp/
-KinMap*	http://www.kinhub.org/kinmap/
-Kinome NetworkX	http://www.kinasenet.ca/
-KLIFS	https://klifs.vu-compmedchem.nl/
-Labeledln	https://ftp.ncbi.nlm.nih.gov/pub/lu/LabeledIn/
-Ligandbook	https://ligandbook.org
-Membranome*	https://membranome.org/
-MiasDB	http://47.88.84.236/Miasdb/index.php
-MitoP2	http://www.mitop2.de/
-mLASSO-Hum	http://bioinfo.eie.polyu.edu.hk/mLASSOHumServer/index.html
-NetNGlyc 	http://www.cbs.dtu.dk/services/NetNGlyc/
-neXtProt*	https://www.nextprot.org/about/nextprot
-PaPI 	http://papi.unipv.it/
-PCDq	http://h-invitational.jp/hinv/pcdq/
-PDID*	http://biomine.cs.vcu.edu/servers/PDID/index.php
-PepSweetener 	https://glycoproteome.expasy.org/pepsweetener/app/
-PhosphoPICK 	http://bioinf.scmb.uq.edu.au/phosphopick/phosphopick
-PhosphoPredict 	http://phosphopredict.erc.monash.edu/
-PhosphOrtholog 	http://www.phosphortholog.com/
-PIPs 	http://www.compbio.dundee.ac.uk/www-pips/index.jsp
-PrePPI	https://bhapp.c2b2.columbia.edu/PrePPI/index.html
-ProKinO	http://vulcan.cs.uga.edu/prokino/about/browser
-ProteomicsDB*	https://www.proteomicsdb.org/
-Quokka*	http://quokka.erc.monash.edu/
-RasMol 	http://www.bernstein-plus-sons.com/software/rasmol/
-ScaPD 	http://bioinfo.wilmer.jhu.edu/ScaPD/
-SMPDB	https://smpdb.ca/view/SMP0000179
-SpindleP 	http://www.cbs.dtu.dk/services/SpindleP/
-StSNP 	http://ilyinlab.org/StSNP/
-SubPhosPred 	http://bioinfo.ncu.edu.cn/SubPhosPred.aspx
-SURFY 	http://wlab.ethz.ch/surfaceome/
-The Proteome Browser*	http://proteomebrowser.org/tpb/home.jspx
-TissueNet	http://netbio.bgu.ac.il/tissuenet/
-TRI_tool 	https://www.vin.bg.ac.rs/180/tools/tfpred.php
-UniHI	http://www.unihi.org/
-VDJsolver 	http://www.cbs.dtu.dk/services/VDJsolver/
-VHLdb 	http://vhldb.bio.unipd.it/
-
+AMPAD Portal |<https://www.synapse.org/#!Synapse:syn2580853/wiki/409840>                                              |
+BioCarta     |<http://www.biocarta.com/>                                                                              |
+BRD	     |<https://brd.nci.nih.gov/brd/>                                                                          |
+Calcium Gene |<http://cagedb.uhlenlab.org/>                                                                           |
+CCInteractome|<http://interactome.dfci.harvard.edu/>                                                                  |
+CIDeR        |<http://mips.helmholtz-muenchen.de/cider/>                                                              |
+ComPPI       |<https://comppi.linkgroup.hu/>                                                                          |
+dbDEPC	     |<https://www.scbit.org/dbdepc3/index.php>                                                               |
+Degradome db |<http://degradome.uniovi.es/>                                                                           |
+DenHunt	     |<http://proline.biochem.iisc.ernet.in/DenHunt/about_database.php>                                       |
+DEPhOd       |<http://depod.bioss.uni-freiburg.de/>                                                                   |
+DIIP         |<http://bioinfo.lab.mcgill.ca/resources/diip/>                                                          |
+HADb         |<http://autophagy.lu/index.html>                                                                        |
+HAPPI	     |<http://discovery.informatics.uab.edu/HAPPI/>                                                           |
+HERVd 	     |<https://herv.img.cas.cz/>                                                                              |
+HGPD	     |<https://hgpd.lifesciencedb.jp/cgi/>                                                                    |
+HKUPP	     |<http://www.hkupp.org/>                                                                                 |
+HMMER3 	     |<https://www.ebi.ac.uk/Tools/hmmer/>                                                                    |
+HPID	     |<http://wilab.inha.ac.kr/hpid/webforms/intro.aspx>                                                      |
+HuInteractome|<http://www.actrec.gov.in/>                                                                             |
+Human PPI    |<https://gene.sfari.org/>                                                                               |
+HumProteinpedia|<http://www.humanproteinpedia.org>                                                                    |
+HumanNet     |<http://www.functionalnet.org/humannet/about.html>                                                      |
+HuPho        |<http://hupho.uniroma2.it/index.php>                                                                    |
+HuPI	     |<https://hupi.ircm.qc.ca/>                                                                              |
+HuRI         |<http://www.interactome-atlas.org/>                                                                     |
+HydPred      |<http://lishuyan.lzu.edu.cn/hydpred/>                                                                   |
+HypoxiaDB    |<http://www.hypoxiadb.com/hypoxiadb.html>                                                               |
+iLoc-Cell    |<http://www.jci-bioinfo.cn/iLoc-Hum>                                                                    |
+Instruct     |<http://instruct.yulab.org/>                                                                            |
+Integrated Interactions |<http://dcv.uhnres.utoronto.ca/iid/>                                                         |
+InWeb_IM     |<https://www.intomics.com/inbio/map.html#search>                                                        |
+KEGG PATHWAY |<https://www.kegg.jp/>                                                                                  |
+KinMap       |<http://www.kinhub.org/kinmap/>                                                                         |
+KinoNetworkX |<http://www.kinasenet.ca/>                                                                              |
+KLIFS	     |<https://klifs.vu-compmedchem.nl/>                                                                      |
+Labeledln    |<https://ftp.ncbi.nlm.nih.gov/pub/lu/LabeledIn/>                                                        |
+Ligandbook   |<https://ligandbook.org>                                                                                |
+Membranome   |<https://membranome.org/>                                                                               |
+MiasDB	     |<http://47.88.84.236/Miasdb/index.php>                                                                  |
+MitoP2	     |<http://www.mitop2.de/>                                                                                 |
+mLASSO-Hum   |<http://bioinfo.eie.polyu.edu.hk/mLASSOHumServer/index.html>                                            |
+NetNGlyc     |<http://www.cbs.dtu.dk/services/NetNGlyc/>                                                              |
+neXtProt     |<https://www.nextprot.org/about/nextprot>                                                               |
+PaPI 	     |<http://papi.unipv.it/>                                                                                 |
+PCDq	     |<http://h-invitational.jp/hinv/pcdq/>                                                                   |
+PDID         |<http://biomine.cs.vcu.edu/servers/PDID/index.php>                                                      |
+PepSweetener |<https://glycoproteome.expasy.org/pepsweetener/app/>                                                    |
+PhosphoPICK  |<http://bioinf.scmb.uq.edu.au/phosphopick/phosphopick>                                                  |
+PhosphoPredict|<http://phosphopredict.erc.monash.edu/>                                                                |
+PhosphOrtholog|<http://www.phosphortholog.com/>                                                                       |
+PIPs 	     |<http://www.compbio.dundee.ac.uk/www-pips/index.jsp>                                                    |
+PrePPI	     |<https://bhapp.c2b2.columbia.edu/PrePPI/index.html>                                                     |
+ProKinO	     |<http://vulcan.cs.uga.edu/prokino/about/browser>                                                        |
+ProteomicsDB |<https://www.proteomicsdb.org/>                                                                         |
+Quokka       |<http://quokka.erc.monash.edu/>                                                                         |
+RasMol       |<http://www.bernstein-plus-sons.com/software/rasmol/>                                                   |
+ScaPD 	     |<http://bioinfo.wilmer.jhu.edu/ScaPD/>                                                                  |
+SMPDB	     |<https://smpdb.ca/view/SMP0000179>                                                                      |
+SpindleP     |<http://www.cbs.dtu.dk/services/SpindleP/>                                                              |
+StSNP        |<http://ilyinlab.org/StSNP/>                                                                            |
+SubPhosPred  |<http://bioinfo.ncu.edu.cn/SubPhosPred.aspx>                                                            |
+SURFY 	     |<http://wlab.ethz.ch/surfaceome/>                                                                       |
+The Proteomedb|<http://proteomebrowser.org/tpb/home.jspx>                                                             |
+TissueNet    |<http://netbio.bgu.ac.il/tissuenet/>                                                                    |
+TRI_tool     |<https://www.vin.bg.ac.rs/180/tools/tfpred.php>                                                         |
+UniHI	     |<http://www.unihi.org/>                                                                                 |
+VDJsolver    |<http://www.cbs.dtu.dk/services/VDJsolver/>                                                             |
+  
 
 
 
