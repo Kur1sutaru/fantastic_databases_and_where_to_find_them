@@ -325,7 +325,7 @@ BrainScope   |<https://brainscope.lumc.nl/brainscope>                           
 CADD         |<https://cadd.gs.washington.edu/>                                                                       |
 CCB          |<https://cellcycle.renci.org/>                                                                          |
 ChIPSummitDB |<http://summit.med.unideb.hu/summitdb/index.php>                                                        |
-Chorogenome  |<hicexplorer.readthedocs.io>                                                                            |
+Chorogenome  |<https://hicexplorer.usegalaxy.eu/>                                                                     |
 Cichlids     |<http://cichlids.biosci.gatech.edu/>                                                                    |
 CITGeneDB    |<http://citgenedb.yubiolab.org>                                                                         |
 CLIMA        |<http://bioinformatics.hsanmartino.it/clima2/>                                                          |
@@ -336,7 +336,7 @@ CRUNCH       |<http://crunch.unibas.ch/crunch/>                                 
 cWords       |<http://servers.binf.ku.dk/cwords/>                                                                     |
 dbDSM        |<http://bioinfo.ahu.edu.cn:8080/dbDSM/index.jsp>                                                        |
 dbEMT        |<http://dbemt.bioinfo-minzhao.org/>                                                                     |
-DBETH        |<www.hpppi.iicb.res.in/btox/>                                                                           |
+DBETH        |<www.hpppi.iicb.res.in/btox/ >                                                                          |
 dbMAE        |<https://mae.hms.harvard.edu/>                                                                          |
 dbNSFP       |<https://sites.google.com/site/jpopgen/dbNSFP>                                                          |
 DisGeNET     |<https://www.disgenet.org/>                                                                             |
@@ -362,7 +362,7 @@ GeneMap      |<www.ncbi.nlm.nih.gov/genemap>                                    
 GUIDES       |<http://guides.sanjanalab.org/#/>                                                                       |
 H-InvDB      |<http://www.h-invitational.jp/>                                                                         |
 HADb         |<http://autophagy.lu/index.html>                                                                        |
-Harmonizome  |<amp.pharm.mssm.edu/Harmonizome/>                                                                       |
+Harmonizome  |<http://amp.pharm.mssm.edu/Harmonizome/>                                                                |
 HERVd        |<https://herv.img.cas.cz/>                                                                              |
 HExpoChem    |<http://www.cbs.dtu.dk/services/HExpoChem-1.0/>                                                         |
 HGMD         |<http://www.hgmd.cf.ac.uk/ac/index.php>                                                                 |
