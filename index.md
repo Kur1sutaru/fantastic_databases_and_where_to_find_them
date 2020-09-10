@@ -15,7 +15,7 @@ Comparative databases:
 * ToppCluster - <https://toppcluster.cchmc.org/>
 
 
-Here we provide the complete list of databases:
+## Here we provide the complete list of databases:
 
 # Alternative splicing databases
 
@@ -96,7 +96,7 @@ GALA         |<http://gala.bx.psu.edu/>                                         
 GMO          |<http://gametsonline.nwsuaflmz.com/gene%20search.php>                                                   |
 Gene Set     |<http://www.cisreg.ca/gsb/>                                                                             |
 HelmCoP      |<http://www.nematode.net/helmcop.html>                                                                  |
-Homophila    |<https://www.aminer.cn/pub/53e9bad0b7602d97046fde08/homophila-human-disease-gene-cognates-in-drosophila |
+Homophila    |<https://www.aminer.cn/pub/53e9bad0b7602d97046fde08/homophila-human-disease-gene-cognates-in-drosophila>|
 Idiographica |<http://rtools.cbrc.jp/idiographica/>                                                                   |
 IRView       |<http://ir.hgc.jp/>                                                                                     |
 LMPD         |<http://www.lipidmaps.org/>                                                                             |
@@ -203,7 +203,6 @@ GED          |<http://gametsepi.nwsuaflmz.com/>                                 
 Geneimprint  |<http://www.geneimprint.com/site/home>                                                                  |
 Lnc2Meth     |<http://bio-bigdata.hrbmu.edu.cn/Lnc2Meth/>                                                             |
 MethHC       |<http://methhc.mbc.nctu.edu.tw/>                                                                        |
-mPod         |<www.genome.org>                                                                                        |
 PhenoScanner |<http://www.phenoscanner.medschl.cam.ac.uk/>                                                            |
 ROADMAP      |<https://egg2.wustl.edu/roadmap/web_portal/index.html>                                                  |
 TCGA         |<https://www.cancer.gov/>                                                                               |
