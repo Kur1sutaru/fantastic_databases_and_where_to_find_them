@@ -19,8 +19,8 @@ Here we provide the complete list of databases:
 
 # Alternative splicing databases
 
-**Database** |                  **URL**                                                                         |  
-AltExtron    | [http://bioinformatics.org.au/tools/altExtron/](http://bioinformatics.org.au/tools/altExtron/)   |  
+**Database** |                  **URL**                          |  
+AltExtron    | <http://bioinformatics.org.au/tools/altExtron/>   |
 AS-ALPS      | http://as-alps.nagahama-i-bio.ac.jp/index.php     |  
 ASpedia      | http://combio.snu.ac.kr/aspedia/index.html        |   
 ASPicDB      | http://srv00.recas.ba.infn.it/ASPicDB/            |  
