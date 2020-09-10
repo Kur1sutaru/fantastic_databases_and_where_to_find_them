@@ -298,6 +298,7 @@ TSEM         |<https://hood-price.isbscience.org/research/tsem/>                
 WeGet        |<https://coexpression.cmbi.umcn.nl/>                                                                    |
 
 # Genomic and sequence databases
+
 **Database** |                  **URL**                                                                               |
 1000Genomes  |<http://www.internationalgenome.org/>                                                                   |
 3DSNP        |<http://cbportal.org/3dsnp/>                                                                            |
