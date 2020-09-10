@@ -3,16 +3,16 @@
 To evaluate the top tools provided in our study, we explore ACE2 data with the following databases and tools:
 
 Alternative splicing:
-1. ASPicDB - http://srv00.recas.ba.infn.it/ASPicDB/
-2. NetGene2 - http://www.cbs.dtu.dk/services/NetGene2/
+1. ASPicDB - (http://srv00.recas.ba.infn.it/ASPicDB/)
+2. NetGene2 - (http://www.cbs.dtu.dk/services/NetGene2/)
 
 Cancer databases:
-1. CCLE - https://portals.broadinstitute.org/ccle
-2. TCGA data Portal - https://www.cancer.gov/
+1. CCLE - (https://portals.broadinstitute.org/ccle)
+2. TCGA data Portal - (https://www.cancer.gov/)
 
 Comparative databases:
-1. TISSUES - https://tissues.jensenlab.org/Search
-2. ToppCluster - https://toppcluster.cchmc.org/
+1. TISSUES - (https://tissues.jensenlab.org/Search)
+2. ToppCluster - (https://toppcluster.cchmc.org/)
 
 
 Here we provide the complete list of databases:
