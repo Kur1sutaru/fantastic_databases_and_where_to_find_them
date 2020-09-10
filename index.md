@@ -1,4 +1,4 @@
-### Case study: Exploratory ACE2 analysis using multi-omic web tools
+# Case study: Exploratory ACE2 analysis using multi-omic web tools
 
 To evaluate the top tools provided in our study, we explore ACE2 data with the following databases and tools:
 
@@ -54,7 +54,7 @@ CCLE         | <https://portals.broadinstitute.org/ccle>                        
 CGMD         | <http://cgmd.in/>                                                            |
 ChiTaRS      | <http://chitars.md.biu.ac.il/>                                               |
 COSMIC       | <https://cancer.sanger.ac.uk/cosmic>                                         |
-CPDB         | <https://www.library.ucdavis.edu/database/carcinogenic-potency-database-cpdb/|
+CPDB         | <https://www.library.ucdavis.edu/database/carcinogenic-potency-database-cpdb/>|
 DBCAT        | <http://dbcat.cgm.ntu.edu.tw/>                                               |
 DbDEMC       | <https://www.picb.ac.cn/dbDEMC/>                                             |
 dbDEPC       | <https://www.scbit.org/dbdepc3/index.php>                                    |
