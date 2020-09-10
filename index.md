@@ -192,3 +192,125 @@ UGAHash      |<http://ugahash.uni-frankfurt.de/>                                
 UMD-Predictor|<http://umd-predictor.eu/index.php>                                                                     |
 VarSome      |<https://varsome.com/>                                                                                  |
 
+#  Methylation databases
+
+**Database** |                  **URL**                                                                               |
+ANCOGeneDB   |<https://bioinfo.uth.edu/ancogenedb/>                                                                   |
+BECon        |<https://redgar598.shinyapps.io/BECon/>                                                                 |
+DBCAT        |<http://dbcat.cgm.ntu.edu.tw/>                                                                          |
+DiseaseMeth  |<http://bio-bigdata.hrbmu.edu.cn/diseasemeth/>                                                          |
+GED          |<http://gametsepi.nwsuaflmz.com/>                                                                       |
+Geneimprint  |<http://www.geneimprint.com/site/home>                                                                  |
+Lnc2Meth     |<http://bio-bigdata.hrbmu.edu.cn/Lnc2Meth/>                                                             |
+MethHC       |<http://methhc.mbc.nctu.edu.tw/>                                                                        |
+mPod         |<www.genome.org>                                                                                        |
+PhenoScanner |<http://www.phenoscanner.medschl.cam.ac.uk/>                                                            |
+ROADMAP      |<https://egg2.wustl.edu/roadmap/web_portal/index.html>                                                  |
+TCGA         |<https://www.cancer.gov/>                                                                               |
+
+#  Gene expression databases
+
+**Database** |                  **URL**                                                                               |
+AgeFactDB    |<http://agefactdb.jenage.de/>                                                                           |
+Allen Brain  |<https://alleninstitute.org/>                                                                           |
+AllerGAtlas  |<http://biokb.ncpsb.org/AlleRGatlas/>                                                                   |
+AltExtron    |<http://bioinformatics.org.au/tools/altExtron/>                                                         |
+ANGIOGENES   |<http://angiogenes.uni-frankfurt.de/>                                                                   |
+arrayMap     |<https://arraymap.org/>                                                                                 |
+AS-ALPS      |<http://as-alps.nagahama-i-bio.ac.jp/index.php>                                                         |
+ASMBrainBlood|<https://epigenetics.essex.ac.uk/ASMBrainBlood/>                                                        |
+ASpedia      |<http://combio.snu.ac.kr/aspedia/index.html>                                                            |
+Cellosaurus  |<https://web.expasy.org/cellosaurus/>                                                                   |
+CHESS        |<http://ccb.jhu.edu/chess/>                                                                             |
+Cistrome DB  |<http://dc2.cistrome.org/>                                                                              |
+Cortecon     |<http://cortecon.neuralsci.org/>                                                                        |
+CSPA         |<https://wlab.ethz.ch/surfaceome/>                                                                      |
+CSTEA        |<http://comp-sysbio.org/cstea/>                                                                         |
+CYCLONET     |<http://cyclonet.biouml.org/>                                                                           |
+DAnCER       |<http://wodaklab.org/dancer/>                                                                           |
+DASHR        |<http://dashr2.lisanwanglab.org/>                                                                       |
+dbCRID       |<http://c1.accurascience.com/dbCRID/>                                                                   |
+dbOrg        |<https://biodbnet-abcc.ncifcrf.gov/>                                                                    |
+DisGeNET     |<https://www.disgenet.org/>                                                                             |
+DRG TXome    |<https://bbs.utdallas.edu/painneurosciencelab/sensoryomics/drgtxome/>                                   |
+EPConDB      |<http://www.cbil.upenn.edu/node/90>                                                                     |
+ESCAPE       |<http://www.maayanlab.net/ESCAPE/>                                                                      |
+ESTDAB       |<https://www.ebi.ac.uk/ipd/estdab/>                                                                     |
+euL1db       |<http://eul1db.ircan.org/>                                                                              |
+EuroDia      |<http://eurodia.vital-it.ch>                                                                            |
+ExpEdit      |<https://bioinformatics.cineca.it/expedit/>                                                             |
+EdgeExpress  |<https://fantom.gsc.riken.jp/4/edgeexpress/view/#5558263>                                               |
+FARNA        |<https://www.cbrc.kaust.edu.sa/farna/?page=home>                                                        |
+FLJ          |<http://flj.lifesciencedb.jp/top/>                                                                      |
+GEMiCCL      |<https://www.kobic.kr/GEMICCL/>                                                                         |
+GenAge       |<http://genomics.senescence.info/genes/>                                                                |
+Genatlas     |<http://www.genatlas.org/>                                                                              |
+GeneMicroglia|<http://shiny.maths.usyd.edu.au/Ellis/MicrogliaPlots>                                                   |
+Globin Gene  |<http://globin.cse.psu.edu/>                                                                            |
+GTEx         |<https://gtexportal.org/home/>                                                                          |
+HAGR         |<http://genomics.senescence.info/index.php>                                                             |
+HCMDB        |<http://hcmdb.i-sanger.com/index>                                                                       |
+Healthspan   |<http://functional.domains/healthspan/>                                                                 |
+Hembase      |<http://hembase.niddk.nih.gov>                                                                          |
+HGDP         |<https://www.hagsc.org/hgdp/>                                                                           |
+HipSci       |<http://www.hipsci.org/>                                                                                |
+HIVed        |<http://hivlatency.erc.monash.edu/>                                                                     |
+hmChIP       |<http://jilab.biostat.jhsph.edu/database/cgi-bin/hmChIP.pl>                                             |
+HoTResDB     |<http://hotresdb.bu.edu/>                                                                               |
+HPMR         |<http://www.receptome.org/>                                                                             |
+HPRD         |<http://www.hprd.org/>                                                                                  |
+HSF          |<http://www.umd.be/HSF3/index.html>                                                                     |
+HuGENavigator|<https://phgkb.cdc.gov/PHGKB/hNHome.action>                                                             |
+Human Erythroblast Maturation |<https://cellline.molbiol.ox.ac.uk/eryth/cgi-bin/HEM.cgi>                              |
+IGRhCellID   |<http://igrcid.ibms.sinica.edu.tw/cgi-bin/index.cgi>                                                    |
+Inner Ear Transcriptome |<https://www.tgen.org/patients/neurological-disorders/>                                      |
+Intropolis   |<https://github.com/nellore/intropolis/blob/master/README.md>                                           |
+Islet Regulome Browser |<http://www.isletregulome.com/isletregulome/>                                                 |
+Isobase      |<http://cb.csail.mit.edu/cb/mna/isobase/>                                                               |
+ISOexpresso  |<http://wiki.tgilab.org/ISOexpresso/main.php?cat=about>                                                 |
+Linc2GO      |<http://www.bioinfo.tsinghua.edu.cn/~liuke/Linc2GO/index.html>                                          |
+Liverbase    |<http://liverbase.hupo.org.cn/index2.jsp>                                                               |
+MetaQuery    |<http://metaquery.docpollard.org/>                                                                      |
+MGEx-Udb     |<http://resource.ibab.ac.in/MGEx-Udb/>                                                                  |
+MiasDB       |<http://47.88.84.236/Miasdb/index.php>                                                                  |
+microRNA body|<https://www.mirnabodymap.org/>                                                                         |
+MitoAge      |<http://www.mitoage.info/>                                                                              |
+MSGene       |<http://msgene.bioinfo-minzhao.org/>                                                                    |
+NHGRI Project|<https://research.nhgri.nih.gov/microarray/index.shtml>                                                 |
+NHPRTR       |<http://nhprtr.org/resources.html>                                                                      |
+PhenoScanner |<http://www.phenoscanner.medschl.cam.ac.uk/>                                                            |
+Primer Z     |<http://grch37.genepipe.ncgm.sinica.edu.tw/primerz/beginDesign.do>                                      |
+QMEAN        |<https://swissmodel.expasy.org/qmean/>                                                                  |
+REDIportal   |<http://srv00.recas.ba.infn.it/redidb/index.html>                                                       |
+RefEx        |<https://refex.dbcls.jp/index.php?lang=en>                                                              |
+RenalDB      |<http://renaldb.uni-frankfurt.de/>                                                                      |
+Retina       |<http://retina.tigem.it/>                                                                               |
+RNALocate    |<http://www.rna-society.org/rnalocate/>                                                                 |
+scRNASeqDB   |<https://bioinfo.uth.edu/scrnaseqdb/>                                                                   |
+SIEGE        |<http://pulm.bumc.bu.edu/siegeDB>                                                                       |
+SIGNOR       |<https://signor.uniroma2.it/>                                                                           |
+SpermBase    |<http://www.spermbase.org/Search.php>                                                                   |
+The Matrisome|<http://matrisomeproject.mit.edu/>                                                                      |
+TiGER        |<http://bioinfo.wilmer.jhu.edu/tiger/>                                                                  |
+TISSUES      |<https://tissues.jensenlab.org/Search>                                                                  |
+tRFdb        |<http://genome.bioch.virginia.edu/trfdb/>                                                               |
+TRI_tool     |<https://www.vin.bg.ac.rs/180/tools/tfpred.php>                                                         |
+TSEM         |<https://hood-price.isbscience.org/research/tsem/>                                                      |
+WeGet        |<https://coexpression.cmbi.umcn.nl/>                                                                    |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
