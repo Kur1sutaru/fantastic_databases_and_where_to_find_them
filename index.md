@@ -90,38 +90,38 @@ UMDTP53db    |<http://www.umd.be:2072/>                                         
 
 # Comparative databases
 
-**Database** |                  **URL**                                                      |
-EVOG         |<http://neobio.cs.pusan.ac.kr/evog/>                                           |
-GALA         |<http://gala.bx.psu.edu/>                                                      |
-GMO          |<http://gametsonline.nwsuaflmz.com/gene%20search.php>                          |
-Gene Set     |<http://www.cisreg.ca/gsb/>                                                    |
-HelmCoP      |<http://www.nematode.net/helmcop.html>                                         |
-Homophila    |<https://www.aminer.cn/pub/53e9bad0b7602d97046fde08/homophila-human-disease-gene-cognates-in-drosophila|
-Idiographica |<http://rtools.cbrc.jp/idiographica/>                                          |
-IRView       |<http://ir.hgc.jp/>                                                            |
-LMPD         |<http://www.lipidmaps.org/>                                                    |
-MANTEIA      |<http://manteia.igbmc.fr/gene-expression-search.php>                           |
-MDWeb        |<http://mmb.irbbarcelona.org/MDWeb2/>                                          |
-Metab2MeSH   |<http://sartorlab.ccmb.med.umich.edu/node/5>                                   |
-MGC          |<https://genecollections.nci.nih.gov/MGC/                                      |
-Netview      |<http://netview.tigem.it/netview_project/netview_tools.html>                   |
-NHPRTR       |<http://nhprtr.org/resources.html>                                             |
-NRED         |<http://jsm-research.imb.uq.edu.au/NRED>                                       |
-OpenDOAR     |<http://v2.sherpa.ac.uk/opendoar/>                                             |
-PhenoHM      |<https://phenome.cchmc.org/phenoBrowser/Phenome>                               |
-POMO         |<https://ruoho.uta.fi/wp/pomo/>|                                               |
-POEDB        |<https://giladlab.uchicago.edu/orthoExon/>                                     |
-RasMol       |<http://www.bernstein-plus-sons.com/software/rasmol/>                          |
-ReCGiP       |<http://klab.sjtu.edu.cn/ReCGiP/>                                              |
-SQUAT        |<http://bsmc.insa-lyon.fr/squat/>                                              |
-StemMapper   |<http://stemmapper.sysbiolab.eu/>                                              |
-TiSGeD       |<http://bioinf.xmu.edu.cn:8080/databases/TiSGeD/index.html>                    |
-TISSUES      |<https://tissues.jensenlab.org/Search>                                         |
-ToppCluster  |<https://toppcluster.cchmc.org/>                                               |
-TBrowser     |<http://tagc.univ-mrs.fr/tbrowser/>                                            |
-tRFdb        |<http://genome.bioch.virginia.edu/trfdb/>                                      |
-Vega Browser |<http://vega.archive.ensembl.org/index.html>                                   |
-VISTA Browser|<https://enhancer.lbl.gov/frnt_page_n.shtml>                                   |
+**Database** |                  **URL**                                                                               |
+EVOG         |<http://neobio.cs.pusan.ac.kr/evog/>                                                                    |
+GALA         |<http://gala.bx.psu.edu/>                                                                               |
+GMO          |<http://gametsonline.nwsuaflmz.com/gene%20search.php>                                                   |
+Gene Set     |<http://www.cisreg.ca/gsb/>                                                                             |
+HelmCoP      |<http://www.nematode.net/helmcop.html>                                                                  |
+Homophila    |<https://www.aminer.cn/pub/53e9bad0b7602d97046fde08/homophila-human-disease-gene-cognates-in-drosophila |
+Idiographica |<http://rtools.cbrc.jp/idiographica/>                                                                   |
+IRView       |<http://ir.hgc.jp/>                                                                                     |
+LMPD         |<http://www.lipidmaps.org/>                                                                             |
+MANTEIA      |<http://manteia.igbmc.fr/gene-expression-search.php>                                                    |
+MDWeb        |<http://mmb.irbbarcelona.org/MDWeb2/>                                                                   |
+Metab2MeSH   |<http://sartorlab.ccmb.med.umich.edu/node/5>                                                            |
+MGC          |<https://genecollections.nci.nih.gov/MGC/>                                                              |
+Netview      |<http://netview.tigem.it/netview_project/netview_tools.html>                                            |
+NHPRTR       |<http://nhprtr.org/resources.html>                                                                      |
+NRED         |<http://jsm-research.imb.uq.edu.au/NRED>                                                                |
+OpenDOAR     |<http://v2.sherpa.ac.uk/opendoar/>                                                                      |
+PhenoHM      |<https://phenome.cchmc.org/phenoBrowser/Phenome>                                                        | 
+POMO         |<https://ruoho.uta.fi/wp/pomo/>|                                                                        |
+POEDB        |<https://giladlab.uchicago.edu/orthoExon/>                                                              |  
+RasMol       |<http://www.bernstein-plus-sons.com/software/rasmol/>                                                   |
+ReCGiP       |<http://klab.sjtu.edu.cn/ReCGiP/>                                                                       |
+SQUAT        |<http://bsmc.insa-lyon.fr/squat/>                                                                       |
+StemMapper   |<http://stemmapper.sysbiolab.eu/>                                                                       |
+TiSGeD       |<http://bioinf.xmu.edu.cn:8080/databases/TiSGeD/index.html>                                             |
+TISSUES      |<https://tissues.jensenlab.org/Search>                                                                  |
+ToppCluster  |<https://toppcluster.cchmc.org/>                                                                        | 
+TBrowser     |<http://tagc.univ-mrs.fr/tbrowser/>                                                                     |
+tRFdb        |<http://genome.bioch.virginia.edu/trfdb/>                                                               |
+Vega Browser |<http://vega.archive.ensembl.org/index.html>                                                            |
+VISTA Browser|<https://enhancer.lbl.gov/frnt_page_n.shtml>                                                            |
 
 
 
