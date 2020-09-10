@@ -17,15 +17,17 @@ Comparative databases:
 
 Here we provide the complete list of databases:
 
-**Database** |                  **URL**                     |  
-AltExtron    | http://bioinformatics.org.au/tools/altExtron/|  
-AS-ALPS      | http://as-alps.nagahama-i-bio.ac.jp/index.php|  
-ASpedia      | http://combio.snu.ac.kr/aspedia/index.html   |   
-ASPicDB      | http://srv00.recas.ba.infn.it/ASPicDB/       |  
-BrainRNA-seq | https://www.brainrnaseq.org/                 |  
-DBASS        | http://www.dbass.org.uk/                     |          
+# Alternative splicing databases
 
-FAST DB |
+**Database** |                  **URL**                                                                         |  
+AltExtron    | [http://bioinformatics.org.au/tools/altExtron/](http://bioinformatics.org.au/tools/altExtron/)   |  
+AS-ALPS      | http://as-alps.nagahama-i-bio.ac.jp/index.php     |  
+ASpedia      | http://combio.snu.ac.kr/aspedia/index.html        |   
+ASPicDB      | http://srv00.recas.ba.infn.it/ASPicDB/            |  
+BrainRNA-seq | https://www.brainrnaseq.org/                      |  
+DBASS        | http://www.dbass.org.uk/                          |          
+FAST DB      | http://www.genosplice.com/alternative-splicing    |
+
 FLJ DB |
 H-DBAS |
 HEXEvent  |
@@ -43,11 +45,6 @@ SplicePort |
 SpliceProt |
 TassDB |
 
-# Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 
 
