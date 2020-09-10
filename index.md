@@ -15,7 +15,10 @@ Comparative databases:
 2. ToppCluster - https://toppcluster.cchmc.org/
 
 
+Here we provide the complete list of databases:
 
+Database | URL
+Content from cell 1 | Content from cell 2
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
