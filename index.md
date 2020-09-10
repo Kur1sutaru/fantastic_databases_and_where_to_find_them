@@ -544,7 +544,28 @@ TUMIR        |<http://www.ncrnalab.com/TUMIR/>                                  
 Vir-Mir db   |<http://alk.ibms.sinica.edu.tw/cgi-bin/miRNA/miRNA.cgi>                                                 |
                                                     
 
+#  Metabolic and enzyme databases
 
+**Database** |                  **URL**                                                                               |
+1-CMDb       |<http://slsdb.manipal.edu/ocm/>                                                                         |
+CIDeR        |<http://mips.helmholtz-muenchen.de/cider/>                                                              |
+DESTAF       |<https://www.cbrc.kaust.edu.sa/destaf/>                                                                 |
+dkNET        |<https://dknet.org//>                                                                                   |
+HEMD         |<http://mdl.shsmu.edu.cn/HEMD/>                                                                         |
+HEPATONET1   |<http://www.ebi.ac.uk/biomodels-main/MODEL1009150000>                                                   |
+HMA          |<https://metabolicatlas.org/>                                                                           |
+HumanCyc     |<https://humancyc.org/>                                                                                 |
+Hupho        |<http://hupho.uniroma2.it/>                                                                             |
+KinMap       |<http://www.kinhub.org/kinmap/>                                                                         |
+metabolicMine|<https://www.humanmine.org/humanmine/begin.do>                                                          |
+MSEA         |<https://www.metaboanalyst.ca/>                                                                         |
+PeroxisomeDB |<http://www.peroxisomedb.org/>                                                                          |
+PhosphPred   |<http://phosphopredict.erc.monash.edu/>                                                                 |
+Piphillin    |<http://piphillin.secondgenome.com/>                                                                    |
+R spider     |<http://www.bioprofiling.de/gene_list.html>                                                             |
+RegenBase    |<http://regenbase.org/>                                                                                 |
+TSEM         |<https://hood-price.isbscience.org/research/tsem/>                                                      |
+VMH          |<https://vmh.life/>                                                                                     |
 
 
 
