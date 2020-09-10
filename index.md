@@ -124,28 +124,71 @@ Vega Browser |<http://vega.archive.ensembl.org/index.html>                      
 VISTA Browser|<https://enhancer.lbl.gov/frnt_page_n.shtml>                                                            |
 
 
+# Disease-specific and variant-disease association
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+**Database** |                  **URL**                                                                               |
+GlobinServer |<http://globin.cse.psu.edu>                                                                             |
+AutDB        |<http://autism.mindspec.org/autdb/Welcome.do>                                                           |
+BioAfrica    |<https://www.krisp.org.za/tools.php>                                                                    |
+C/VD         |<http://www.padb.org/cvd/index.html>                                                                    |
+ClinVar      |<https://www.ncbi.nlm.nih.gov/clinvar/>                                                                 |
+DbDNV        |<http://goods.ibms.sinica.edu.tw/DNVs/>                                                                 |
+DbGaP        |<https://www.ncbi.nlm.nih.gov/gap/>                                                                     |
+dbSNP        |<http://www.ncbi.nlm.nih.gov/SNP>                                                                       |
+DECIPHER     |<https://decipher.sanger.ac.uk/>                                                                        |
+Denovo-db    |<http://denovo-db.gs.washington.edu/denovo-db/>                                                         |
+DGV          |<http://dgv.tcag.ca/>                                                                                   |
+Ageing Atlas |<http://ageing-map.org/>                                                                                |
+Diseasome    |<http://www.kobic.kr/diseasome/>                                                                        |
+DisGeNET     |<https://www.disgenet.org/>                                                                             |
+DMDM         |<http://bioinf.umbc.edu/dmdm/>                                                                          |
+EGA          |<https://www.ebi.ac.uk/ega/>                                                                            |
+GeneReviews  |<https://www.uniprot.org/database/DB-0188>                                                              |
+HbVar        |<http://globin.cse.psu.edu/hbvar/menu.html>                                                             |
+HGMD         |<http://www.hgmd.cf.ac.uk/ac/index.php>                                                                 |
+HGSVP        |<https://www.internationalgenome.org/human-genome-structural-variation-consortium/>                     |
+HGV&TB       |<http://genome.igib.res.in/hgvtb/index.html>                                                            |
+HMDD         |<http://www.cuilab.cn/hmdd>                                                                             |
+HPO          |<https://hpo.jax.org/app/>                                                                              |
+Hu.MAP       |<http://hu.proteincomplexes.org/>                                                                       |
+HUMSAVAR     |<https://www.uniprot.org/docs/humsavar>                                                                 |
+InvFEST      |<http://invfestdb.uab.cat/>                                                                             |
+IonChannelsdb|<https://www.nextprot.org/portals/navmut>                                                               |
+ITHANET      |<https://www.ithanet.eu/db/ithagenes>                                                                   |
+Kaviar       |<http://db.systemsbiology.net/kaviar/cgi-pub/Kaviar.pl>                                                 |
+KMeyeDB      |<http://mutationview.jp/MutationView/jsp/index.jsp>                                                     |
+LaforaDB     |<http://projects.tcag.ca/lafora/>                                                                       |
+LongevityMap |<http://genomics.senescence.info/longevity/>                                                            |
+LOVD         |<http://www.lovd.nl/>                                                                                   |
+LSDBs        |<https://grenada.lumc.nl/LSDB_list/lsdbs>                                                               |
+MARRVEL      |<http://marrvel.org/>                                                                                   |
+MelanomaMine |<http://melanomamine.bioinfo.cnio.es/>                                                                  |
+Mutalyzer    |<https://mutalyzer.nl/>                                                                                 |
+MutPred      |<http://mutpred.mutdb.org/>                                                                             |
+NetChop      |<http://www.cbs.dtu.dk/services/NetChop/>                                                               |
+OMIM         |<https://omim.org/>                                                                                     |
+PAHKB        |<https://bioinfo.uth.edu/PAHKB/>                                                                        |
+PanelApp     |<https://panelapp.genomicsengland.co.uk/>                                                               |
+PaPI         |<http://papi.unipv.it/>                                                                                 |
+PharmGKB     |<https://www.pharmgkb.org/>                                                                             |
+Phenocarta   |<https://gemma.msl.ubc.ca/expressionExperiment/showAllExpressionExperiments.html>                       |
+PhenoCHF     |<http://www.nactem.ac.uk/PhenoCHF/>                                                                     |
+PhenoDB      |<https://researchphenodb.net/>                                                                          |
+PhenoDigm    |<https://www.sanger.ac.uk/science/tools/phenodigm>                                                      |
+PhenoHM      |<https://phenome.cchmc.org/phenoBrowser/Phenome>                                                        |
+Phenopedia   |<https://phgkb.cdc.gov/PHGKB/startPagePhenoPedia.action>                                                |
+PhenoTips    |<https://phenotips.com/>                                                                                |
+PhosphOrtho  |<http://www.phosphortholog.com/>                                                                        |
+PolyPhen2    |<http://genetics.bwh.harvard.edu/pph2/>                                                                 |
+PredictSNP2  |<http://loschmidt.chemi.muni.cz/predictsnp2/>                                                           |
+Rat/InterMine|<http://ratmine.mcw.edu/ratmine/begin.do>                                                               |
+RAvariome    |<http://www.h-invitational.jp/hinv/rav/>                                                                |
+SNP2TFBS     |<https://ccg.epfl.ch/snp2tfbs/>                                                                         |
+SNPDelScore  |<https://www.ncbi.nlm.nih.gov/research/snpdelscore/>                                                    |
+SNPedia      |<https://www.snpedia.com/>                                                                              |
+SNPeffect    |<https://snpeffect.switchlab.org/>                                                                      |
+SNVBox       |<https://karchinlab.org/apps/appSnvBox.html>                                                            |
+UGAHash      |<http://ugahash.uni-frankfurt.de/>                                                                      |
+UMD-Predictor|<http://umd-predictor.eu/index.php>                                                                     |
+VarSome      |<https://varsome.com/>                                                                                  |
 
