@@ -299,12 +299,14 @@ WeGet        |<https://coexpression.cmbi.umcn.nl/>                              
 
 # Genomic and sequence databases
 
+
 **Database** |                  **URL**                                                                               |
+             |                                                                                                        |
 1000Genomes  |<http://www.internationalgenome.org/>                                                                   |
 3DSNP        |<http://cbportal.org/3dsnp/>                                                                            |
 3Omics       |<https://3omics.cmdm.tw/>                                                                               |
 CatalogSTR   |<https://strider.online/>                                                                               |
-Catalog of enhancers in hESCs  |<http://www.medical-epigenomics.org/papers/barakat2018/>                            |
+Catalog of enhancers in hESCs  |<http://www.medical-epigenomics.org/papers/barakat2018/>                              |
 ABS          |<https://www.crg.eu/en/programme/programmes-groups/bioinformatics-and-genomics >                        |
 AceView      |<http://www.ncbi.nlm.nih.gov/IEB/Research/Acembly>                                                      |
 ActiveDriverDB|<https://github.com/reimandlab/ActiveDriverDB/issues>                                                  |
