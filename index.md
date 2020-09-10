@@ -17,15 +17,14 @@ Comparative databases:
 
 Here we provide the complete list of databases:
 
-**Database** |                  **URL**
-AltExtron    | http://bioinformatics.org.au/tools/altExtron/
-AS-ALPS      | http://as-alps.nagahama-i-bio.ac.jp/index.php
-ASpedia      | http://combio.snu.ac.kr/aspedia/index.html
-ASPicDB      | http://srv00.recas.ba.infn.it/ASPicDB/
-BrainRNA-seq | https://www.brainrnaseq.org/
+**Database** |                  **URL**                     |  
+AltExtron    | http://bioinformatics.org.au/tools/altExtron/|  
+AS-ALPS      | http://as-alps.nagahama-i-bio.ac.jp/index.php|  
+ASpedia      | http://combio.snu.ac.kr/aspedia/index.html   |   
+ASPicDB      | http://srv00.recas.ba.infn.it/ASPicDB/       |  
+BrainRNA-seq | https://www.brainrnaseq.org/                 |  
+DBASS        | http://www.dbass.org.uk/                     |          
 
-DBASS |
-EDAS |
 FAST DB |
 FLJ DB |
 H-DBAS |
