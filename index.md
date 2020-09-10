@@ -7,8 +7,8 @@ Alternative splicing:
 * NetGene2 - <http://www.cbs.dtu.dk/services/NetGene2/>
 
 Cancer databases:
-* CCLE - (https://portals.broadinstitute.org/ccle)
-* TCGA data Portal - (https://www.cancer.gov/)
+* CCLE - <https://portals.broadinstitute.org/ccle>
+* TCGA data Portal - <https://www.cancer.gov/>
 
 Comparative databases:
 * TISSUES - <https://tissues.jensenlab.org/Search>
@@ -19,31 +19,27 @@ Here we provide the complete list of databases:
 
 # Alternative splicing databases
 
-**Database** |                  **URL**                          |  
-AltExtron    | <http://bioinformatics.org.au/tools/altExtron/>   |
-AS-ALPS      | http://as-alps.nagahama-i-bio.ac.jp/index.php     |  
-ASpedia      | http://combio.snu.ac.kr/aspedia/index.html        |   
-ASPicDB      | http://srv00.recas.ba.infn.it/ASPicDB/            |  
-BrainRNA-seq | https://www.brainrnaseq.org/                      |  
-DBASS        | http://www.dbass.org.uk/                          |          
-FAST DB      | http://www.genosplice.com/alternative-splicing    |
+**Database** |                  **URL**                                      |  
+AltExtron    | <http://bioinformatics.org.au/tools/altExtron/>               |
+AS-ALPS      | <http://as-alps.nagahama-i-bio.ac.jp/index.php>               |  
+ASpedia      | <http://combio.snu.ac.kr/aspedia/index.html>                  |   
+ASPicDB      | <http://srv00.recas.ba.infn.it/ASPicDB/>                      |  
+BrainRNA-seq | <https://www.brainrnaseq.org/>                                |  
+DBASS        | <http://www.dbass.org.uk/>                                    |          
+FAST DB      | <http://www.genosplice.com/alternative-splicing>              |
+FLJ DB       | <http://flj.lifesciencedb.jp/top/>                            |
+H-DBAS       | <http://www.h-invitational.jp/h-dbas/>                        |
+HEXEvent     | <http://hexevent.mmg.uci.edu/cgi-bin/HEXEvent/HEXEventWEB.cgi |
+HOLLYWOOD    | <http://hollywood.mit.edu/hollywood/Login.php>                |
+HSF          | <http://www.umd.be/HSF3/index.html>                           |
+IntSplice    | <https://www.med.nagoya-u.ac.jp/neurogenetics/IntSplice/      |
+MiasDB       | <http://47.88.84.236/Miasdb/index.php>                        |
+NetGene2     | <http://www.cbs.dtu.dk/services/NetGene2/>                    |
+NetUTR       | <http://www.cbs.dtu.dk/services/NetUTR/>                      |
+SplicePort   | <http://spliceport.cbcb.umd.edu/>                             |
+SpliceProt   | <http://bioinfoteam.fiocruz.br/spliceprot/index.php>          |
+TassDB       | <http://tassdb2.leibniz-fli.de/>                              |
 
-FLJ DB |
-H-DBAS |
-HEXEvent  |
-HOLLYWOOD |
-HSF  |
-HYBRIDdb  |
-IntSplice |
-IsoFunc  |
-MiasDB |
-NetGene2 |
-NetUTR |
-PALS DB |
-SpliceInfo |
-SplicePort |
-SpliceProt |
-TassDB |
 
 
 
