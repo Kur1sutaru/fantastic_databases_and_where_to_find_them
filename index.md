@@ -303,8 +303,8 @@ WeGet        |<https://coexpression.cmbi.umcn.nl/>                              
 1000Genomes  |<http://www.internationalgenome.org/>                                                                   |
 3DSNP        |<http://cbportal.org/3dsnp/>                                                                            |
 3Omics       |<https://3omics.cmdm.tw/>                                                                               |
-A Catalog of Human STR Variation |<https://strider.online/>                                                           |
-A catalog of enhancers in hESCs  |<http://www.medical-epigenomics.org/papers/barakat2018/>                            |
+CatalogSTR   |<https://strider.online/>                                                                               |
+Catalog of enhancers in hESCs  |<http://www.medical-epigenomics.org/papers/barakat2018/>                            |
 ABS          |<https://www.crg.eu/en/programme/programmes-groups/bioinformatics-and-genomics >                        |
 AceView      |<http://www.ncbi.nlm.nih.gov/IEB/Research/Acembly>                                                      |
 ActiveDriverDB|<https://github.com/reimandlab/ActiveDriverDB/issues>                                                  |
@@ -346,12 +346,12 @@ eDGAR        |<http://edgar.biocomp.unibo.it/gene_disease_db/index.html>        
 EpiACDev     |<https://cotney.research.uchc.edu/data/>                                                                |
 EpimiRBase   |<https://www.epimirbase.eu/>                                                                            |
 Eponine      |<https://www.sanger.ac.uk/about/who-we-are>                                                             |
-Exome Variant Server|<https://evs.gs.washington.edu/EVS/>                                                             |
+ExomeServer  |<https://evs.gs.washington.edu/EVS/>                                                                    |
 FirstEF      |<http://rulai.cshl.org/tools/FirstEF/>                                                                  |
 G2Cdb        |<http://www.genes2cognition.org>                                                                        |
 GENCODE      |<https://www.gencodegenes.org/human/>                                                                   |
 GenePAtlas   |<http://biocc.hrbmu.edu.cn/GPA/>                                                                        |
-Gene Set Builder|<http://www.cisreg.ca/gsb/>                                                                          |
+GeneSetBuildr|<http://www.cisreg.ca/gsb/>                                                                             |
 Gene Wiki    |<http://en.wikipedia.org/wiki/Portal:Gene_Wiki>                                                         |
 GeneCards    |<genecards.org/>                                                                                        |
 Geneimprint  |<http://www.geneimprint.com/site/home>                                                                  |
@@ -370,7 +370,7 @@ HMDAD        |<http://www.cuilab.cn/hmdad>                                      
 HMMER3       |<https://www.ebi.ac.uk/Tools/hmmer/>                                                                    |
 HMP          |<https://portal.hmpdacc.org/>                                                                           |
 HOMD         |<http://www.homd.org>                                                                                   |
-HomozygosityMapper |<http://www.homozygositymapper.org/>                                                              |
+HomzygMapper |<http://www.homozygositymapper.org/>                                                                    |
 hORFeome Database|<http://horfdb.dfci.harvard.edu/>                                                                   |
 HPO          |<https://hpo.jax.org/app/>                                                                              |
 HSF          |<http://www.umd.be/HSF3/index.html>                                                                     |
@@ -415,7 +415,7 @@ OKdb         |<http://okdb.appliedbioinfo.net/>                                 
 OMIM         |<https://omim.org/>                                                                                     |
 OncoDB.HCC   |<http://oncodb.hcc.ibms.sinica.edu.tw/index.htm>                                                        |
 ONTOAD       |<http://bioportal.bioontology.org/ontologies/ONTOAD>                                                    |
-Open Targets Platform |<https://www.targetvalidation.org/>                                                            |
+OpenTargets  |<https://www.targetvalidation.org/>                                                                     |
 OrthoDisease |<http://orthodisease.sbc.su.se/cgi-bin/index.cgi>                                                       |
 OsteoporosAtlas|<http://biokb.ncpsb.org/osteoporosis/index.php>                                                       |
 OverGeneDB   |<http://overgenedb.amu.edu.pl>                                                                          |
@@ -457,7 +457,7 @@ Saqqaqproject|<https://ancientgenome.dk/>                                       
 ScaPD        |<http://bioinfo.wilmer.jhu.edu/ScaPD/>                                                                  |
 sciAI        |<https://sci.ai/>                                                                                       |
 SEGEL        |<http://www.chengfeng.info/smoking_database.html>                                                       |
-Semantic Body Browser |<http://sbb.cellfinder.org/>                                                                   |
+Semantic db  |<http://sbb.cellfinder.org/>                                                                            |
 SNP2TFBS     |<https://ccg.epfl.ch/snp2tfbs/>                                                                         |
 SNPDelScore  |<https://www.ncbi.nlm.nih.gov/research/snpdelscore/>                                                    |
 SNPs GO      |<https://snps-and-go.biocomp.unibo.it/snps-and-go/index.html>                                           |
