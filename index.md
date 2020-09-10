@@ -486,6 +486,70 @@ VHLdb        |<http://vhldb.bio.unipd.it/>                                      
 Zikv-CDB     |<http://zikadb.cpqrr.fiocruz.br>                                                                        |
 
 
+#  LncRNA and miRNA databases
+
+**Database** |                  **URL**                                                                               |
+ComiR        |<http://www.benoslab.pitt.edu/comir/>                                                                   |
+DASHR        |<http://dashr2.lisanwanglab.org/>                                                                       |
+dbDEMC       |<https://www.picb.ac.cn/dbDEMC/>                                                                        |
+DES-ncRNA    |<https://www.cbrc.kaust.edu.sa/des_ncrna/>                                                              |
+E-RNAi       |<https://www.dkfz.de/signaling/e-rnai3//>                                                               |
+exoRBase     |<http://www.exoRBase.org>                                                                               |
+ExprTargetDB |<http://www.scandb.org/apps/microrna/>                                                                  |
+GED          |<http://gametsepi.nwsuaflmz.com/>                                                                       |
+GenePerturbAtlas|<http://biocc.hrbmu.edu.cn/GPA/>                                                                     |
+hLGDB        |<http://lysosome.unipg.it/>                                                                             |
+HMDD         |<http://www.cuilab.cn/hmdd>                                                                             |
+HumanViCe    |<http://gyanxet-beta.com/humanvice/>                                                                    |
+IntmiR       |<https://www.rgcb.res.in/intmir/>                                                                       |
+IRBase       |<http://mimirna.centenary.org.au/irfinder/database/>                                                    |
+Lnc2Meth     |<http://bio-bigdata.hrbmu.edu.cn/Lnc2Meth/>                                                             |
+LncATLAS     |<http://lncatlas.crg.eu/>                                                                               |
+lnCeDB       |<http://gyanxet-beta.com/lncedb/>                                                                       |
+LNCediting   |<http://bioinfo.life.hust.edu.cn/LNCediting/>                                                           |
+LNCipedia    |<https://lncipedia.org/>                                                                                |
+LncRBase     |<http://bicresources.jcbose.ac.in/zhumur/lncrbase/>                                                     |
+lncRNASNP    |<http://bioinfo.life.hust.edu.cn/lncRNASNP#!/>                                                          |
+lncRNAtor    |<http://lncrnator.ewha.ac.kr/>                                                                          |
+LncRNAWiki   |<http://lncrna.big.ac.cn/index.php/Main_Page>                                                           |
+lncRNome     |<http://genome.igib.res.in/lncRNome>                                                                    |
+MethmiRbase  |<https://madlab.cpe.ku.ac.th/TR2/?itemID=108747>                                                        |
+microDoR     |<http://reprod.njmu.edu.cn/cgi-bin/microdor/index.py>                                                   |
+microRNA.org |<http://www.microrna.org/>                                                                              |
+miR-EdiTar   |<http://microrna.osumc.edu/mireditar/>                                                                  |
+miR2Disease  |<http://www.miR2Disease.org>                                                                            |
+miR2GO       |<http://compbio.uthsc.edu/miR2GO/home.php>                                                              |
+miRCancer    |<http://mircancer.ecu.edu/>                                                                             |
+miRDB        |<http://mirdb.org/>                                                                                     |
+mirDIP       |<http://ophid.utoronto.ca/mirDIP/>                                                                      |
+miRGate      |<http://mirgate.bioinfo.cnio.es/miRGate/>                                                               |
+miRGen       |<http://carolina.imis.athena-innovation.gr/diana_tools/web/index.php?r=mirgenv3>                        |
+MirGeneDB    |<https://mirgenedb.org/>                                                                                |
+miRNA TF loop|<https://rth.dk/resources/tfmirloop/>                                                                   |
+miRNAMap     |<http://mirnamap.mbc.nctu.edu.tw/>                                                                      |
+miRPathDB    |<https://mpd.bioinf.uni-sb.de/>                                                                         |
+MirSNP       |<http://cmbi.bjmu.edu.cn/mirsnp>                                                                        |
+miRvar       |<http://genome.igib.res.in/mirlovd>                                                                     |
+miRWalk      |<http://mirwalk.umm.uni-heidelberg.de/>                                                                 |
+PITA         |<https://genie.weizmann.ac.il/pubs/mir07/mir07_prediction.html>                                         |
+Polymirts    |<http://compbio.uthsc.edu/miRSNP/>                                                                      |
+PuTmiR       |<https://www.isical.ac.in/~bioinfo_miu/TF-miRNA/TF-miRNA.html>                                          |
+RenalDB      |<http://renaldb.uni-frankfurt.de/>                                                                      |
+S-MED        |<https://www.oncomir.umn.edu/SMED/basic_search.php>                                                     |
+SlideBase    |<http://slidebase.binf.ku.dk/>                                                                          |
+The lncRNA Db|<http://www.valadkhanlab.org/database>                                                                  |
+TissueAtlas  |<https://ccb-web.cs.uni-saarland.de/tissueatlas/>                                                       |
+TriplexRNA   |<https://triplexrna.org/>                                                                               |
+TUMIR        |<http://www.ncrnalab.com/TUMIR/>                                                                        |
+Vir-Mir db   |<http://alk.ibms.sinica.edu.tw/cgi-bin/miRNA/miRNA.cgi>                                                 |
+                                                    
+
+
+
+
+
+
+
 
 
 
