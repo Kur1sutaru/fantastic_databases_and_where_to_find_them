@@ -701,7 +701,7 @@ MNDR	       |<http://www.rna-society.org/mndr/>                                 
 mtDNA-Server |<https://mtdna-server.uibk.ac.at/index.html>                                                            |
 NetMHC-3.0   |<http://www.cbs.dtu.dk/services/NetMHC/>                                                                |
 NetMHCIIpan  |<http://www.cbs.dtu.dk/services/NetMHCIIpan/>                                                           |
-PathogenFind |< 	https://cge.cbs.dtu.dk/services/PathogenFinder/>                                                    |
+PathogenFind |<https://cge.cbs.dtu.dk/services/PathogenFinder/>                                                       |
 PEPVAC 	     |<http://imed.med.ucm.es/PEPVAC/>                                                                        |
 PhosphoPICK  |<http://bioinf.scmb.uq.edu.au/phosphopick/phosphopick>                                                  |
 PolyDoms     |<https://polydoms.cchmc.org/polydoms/>                                                                  |
