@@ -53,7 +53,9 @@ Other databases:
 * VDJdb (COVID-19) - <https://vdjdb.cdr3.net/>
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+## Step 1: Discovering the ACE2 gene
+
+First of all, we use OMIM <https://omim.org/> and GeneCards <https://www.genecards.org/> to found more informations abou the ACE2 gene.          
 
 
 
