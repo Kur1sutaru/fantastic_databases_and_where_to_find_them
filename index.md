@@ -58,10 +58,10 @@ Other databases:
 First of all, we use OMIM <https://omim.org/> and GeneCards <https://www.genecards.org/> to found more informations abou the *ACE2* gene. 
 
 Using the OMIM database, we found:
--[x] **Alternative gene name**: (*ACEH*)
--[X] **HGNC Approved Gene Symbol**: *ACE2*
--[X] **Cytogenetic location**: Xp22.2
--[X] **Genomic coordinates** (GRCh38): X:15,518,196-15,602,157 (retrieved from NCBI).
+- [x] **Alternative gene name**: (*ACEH*)
+- [X] **HGNC Approved Gene Symbol**: *ACE2*
+- [X] **Cytogenetic location**: Xp22.2
+- [X] **Genomic coordinates** (GRCh38): X:15,518,196-15,602,157 (retrieved from NCBI).
 
 Also, OMIM provides information about **Cloning and Expression**, **Gene Structure**, **Mapping**, **Gene Function**, **Biochemical Features**, **Molecular Genetics**, **Animal Model** information, and **REFERENCES** related to the gene.
 
