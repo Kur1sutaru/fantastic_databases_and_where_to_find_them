@@ -53,7 +53,7 @@ Other databases:
 * VDJdb (COVID-19) - <https://vdjdb.cdr3.net/>
 
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
