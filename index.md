@@ -16,41 +16,41 @@ Comparative databases:
 * ToppCluster - <https://toppcluster.cchmc.org/>
 
 Disease-specific and variant-disease association:
-* MARRVEL - http://marrvel.org/
-* Varsome - https://varsome.com/
+* MARRVEL - <http://marrvel.org/>
+* Varsome - <https://varsome.com/>
 
 Methylation databases:
-* BECon - https://redgar598.shinyapps.io/BECon/
-* DiseaseMeth - http://bio-bigdata.hrbmu.edu.cn/diseasemeth/
+* BECon - <https://redgar598.shinyapps.io/BECon/>
+* DiseaseMeth - <http://bio-bigdata.hrbmu.edu.cn/diseasemeth/>
 
 Gene expression databases:
-* ESCAPE - http://www.maayanlab.net/ESCAPE/
-* GTEX - https://gtexportal.org/home/
+* ESCAPE - <http://www.maayanlab.net/ESCAPE/>
+* GTEX - <https://gtexportal.org/home/>
 
 Genomic and sequence databases
-* DisGeNET -  https://www.disgenet.org/home/
-* Harmonizome - http://amp.pharm.mssm.edu/Harmonizome/
+* DisGeNET -  <https://www.disgenet.org/home/>
+* Harmonizome - <http://amp.pharm.mssm.edu/Harmonizome/>
 
 LncRNA and miRNA databases
-* exoRBase - http://www.exoRBase.org
-* miRDB - http://mirdb.org/index.html
-* BONUS: Viral miRNA - http://alk.ibms.sinica.edu.tw/cgi-bin/miRNA/miRNA.cgi
+* exoRBase - <http://www.exoRBase.org>
+* miRDB - <http://mirdb.org/index.html>
+* BONUS: Viral miRNA - <http://alk.ibms.sinica.edu.tw/cgi-bin/miRNA/miRNA.cgi>
 
 Metabolic databases:
-* CIDeR - http://mips.helmholtz-muenchen.de/cider/
-* metabolicMine - https://www.humanmine.org/humanmine/begin.do
+* CIDeR - <http://mips.helmholtz-muenchen.de/cider/>
+* metabolicMine - <https://www.humanmine.org/humanmine/begin.do>
 
 Proteome and protein-protein interaction databases:
-* PDID: Protein-Drug Interaction Database - http://biomine.cs.vcu.edu/servers/PDID/index.php
-* The Proteome Browser - http://proteomebrowser.org/tpb/home.jspx
+* PDID: Protein-Drug Interaction Database - <http://biomine.cs.vcu.edu/servers/PDID/index.php>
+* The Proteome Browser - <http://proteomebrowser.org/tpb/home.jspx>
 
 Regulatory Databases:
-* Interferome - http://interferome.its.monash.edu.au/interferome/home.jspx
-* TTSMI - http://ttsmi.bii.a-star.edu.sg/
+* Interferome - <http://interferome.its.monash.edu.au/interferome/home.jspx>
+* TTSMI - <http://ttsmi.bii.a-star.edu.sg/>
 
 Other databases:
-* Semantic Body Browser - http://sbb.cellfinder.org/
-* VDJdb (COVID-19) - https://vdjdb.cdr3.net/
+* Semantic Body Browser - <http://sbb.cellfinder.org/>
+* VDJdb (COVID-19) - <https://vdjdb.cdr3.net/>
 
 
 
