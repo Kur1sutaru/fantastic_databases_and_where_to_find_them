@@ -1,4 +1,4 @@
-# Case study: Exploratory ACE2 analysis using multi-omic web tools
+# Case study: Exploratory *ACE2* analysis using multi-omic web tools
 
 This work is part of the article "Fantastic databases and where to find them." To demonstrate how the tools mentioned above work, we chose a case study on ACE2, the Angiotensin I Converting Enzyme 2, an important enzyme related to  Covid-19 and Severe Acute Respiratory Syndrome.
 To evaluate the top tools provided in our study, we explore ACE2 data with the following databases and tools:
@@ -53,15 +53,26 @@ Other databases:
 * VDJdb (COVID-19) - <https://vdjdb.cdr3.net/>
 
 
-## Step 1: Discovering the ACE2 gene
+## Step 1: Discovering the *ACE2* gene
 
-First of all, we use OMIM <https://omim.org/> and GeneCards <https://www.genecards.org/> to found more informations abou the ACE2 gene.          
+First of all, we use OMIM <https://omim.org/> and GeneCards <https://www.genecards.org/> to found more informations abou the *ACE2* gene. 
+
+Using the OMIM database, we found alternative gene name (*ACEH*), the **HGNC Approved Gene Symbol**: *ACE2*, **Cytogenetic location**: Xp22.2, **Genomic coordinates** (GRCh38): X:15,518,196-15,602,157 (retrieved from NCBI). Also, OMIM provides information about **Cloning and Expression**, **Gene Structure**, **Mapping**, **Gene Function**, **Biochemical Features**, **Molecular Genetics**, **Animal Model** information, and **REFERENCES** related to the gene.
 
 
 
 
 
-## Here we provide the complete list of databases:
+
+
+
+
+
+
+
+
+
+# Here we provide the complete list of databases:
 
 # Alternative splicing databases
 
