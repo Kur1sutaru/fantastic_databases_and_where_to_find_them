@@ -574,7 +574,7 @@ VMH          |<https://vmh.life/>                                               
 2D-PAGE      |<http://web.mpiib-berlin.mpg.de/cgi-bin/pdbs/2d-page/extern/index.cgi>                                  |
 AMPAD Portal |<https://www.synapse.org/#!Synapse:syn2580853/wiki/409840>                                              |
 BioCarta     |<http://www.biocarta.com/>                                                                              |
-BRD	     |<https://brd.nci.nih.gov/brd/>                                                                          |
+BRD	         |<https://brd.nci.nih.gov/brd/>                                                                          |
 Calcium Gene |<http://cagedb.uhlenlab.org/>                                                                           |
 CCInteractome|<http://interactome.dfci.harvard.edu/>                                                                  |
 CIDeR        |<http://mips.helmholtz-muenchen.de/cider/>                                                              |
@@ -585,18 +585,18 @@ DenHunt	     |<http://proline.biochem.iisc.ernet.in/DenHunt/about_database.php> 
 DEPhOd       |<http://depod.bioss.uni-freiburg.de/>                                                                   |
 DIIP         |<http://bioinfo.lab.mcgill.ca/resources/diip/>                                                          |
 HADb         |<http://autophagy.lu/index.html>                                                                        |
-HAPPI	     |<http://discovery.informatics.uab.edu/HAPPI/>                                                           |
+HAPPI	       |<http://discovery.informatics.uab.edu/HAPPI/>                                                           |
 HERVd 	     |<https://herv.img.cas.cz/>                                                                              |
-HGPD	     |<https://hgpd.lifesciencedb.jp/cgi/>                                                                    |
-HKUPP	     |<http://www.hkupp.org/>                                                                                 |
+HGPD	       |<https://hgpd.lifesciencedb.jp/cgi/>                                                                    |
+HKUPP	       |<http://www.hkupp.org/>                                                                                 |
 HMMER3 	     |<https://www.ebi.ac.uk/Tools/hmmer/>                                                                    |
-HPID	     |<http://wilab.inha.ac.kr/hpid/webforms/intro.aspx>                                                      |
+HPID	       |<http://wilab.inha.ac.kr/hpid/webforms/intro.aspx>                                                      |
 HuInteractome|<http://www.actrec.gov.in/>                                                                             |
 Human PPI    |<https://gene.sfari.org/>                                                                               |
 HumProteinpedia|<http://www.humanproteinpedia.org>                                                                    |
 HumanNet     |<http://www.functionalnet.org/humannet/about.html>                                                      |
 HuPho        |<http://hupho.uniroma2.it/index.php>                                                                    |
-HuPI	     |<https://hupi.ircm.qc.ca/>                                                                              |
+HuPI	       |<https://hupi.ircm.qc.ca/>                                                                              |
 HuRI         |<http://www.interactome-atlas.org/>                                                                     |
 HydPred      |<http://lishuyan.lzu.edu.cn/hydpred/>                                                                   |
 HypoxiaDB    |<http://www.hypoxiadb.com/hypoxiadb.html>                                                               |
@@ -607,7 +607,7 @@ InWeb_IM     |<https://www.intomics.com/inbio/map.html#search>                  
 KEGG PATHWAY |<https://www.kegg.jp/>                                                                                  |
 KinMap       |<http://www.kinhub.org/kinmap/>                                                                         |
 KinoNetworkX |<http://www.kinasenet.ca/>                                                                              |
-KLIFS	     |<https://klifs.vu-compmedchem.nl/>                                                                      |
+KLIFS	       |<https://klifs.vu-compmedchem.nl/>                                                                      |
 Labeledln    |<https://ftp.ncbi.nlm.nih.gov/pub/lu/LabeledIn/>                                                        |
 Ligandbook   |<https://ligandbook.org>                                                                                |
 Membranome   |<https://membranome.org/>                                                                               |
@@ -616,21 +616,21 @@ MitoP2	     |<http://www.mitop2.de/>                                            
 mLASSO-Hum   |<http://bioinfo.eie.polyu.edu.hk/mLASSOHumServer/index.html>                                            |
 NetNGlyc     |<http://www.cbs.dtu.dk/services/NetNGlyc/>                                                              |
 neXtProt     |<https://www.nextprot.org/about/nextprot>                                                               |
-PaPI 	     |<http://papi.unipv.it/>                                                                                 |
-PCDq	     |<http://h-invitational.jp/hinv/pcdq/>                                                                   |
+PaPI 	       |<http://papi.unipv.it/>                                                                                 |
+PCDq	       |<http://h-invitational.jp/hinv/pcdq/>                                                                   |
 PDID         |<http://biomine.cs.vcu.edu/servers/PDID/index.php>                                                      |
 PepSweetener |<https://glycoproteome.expasy.org/pepsweetener/app/>                                                    |
 PhosphoPICK  |<http://bioinf.scmb.uq.edu.au/phosphopick/phosphopick>                                                  |
 PhosphoPredict|<http://phosphopredict.erc.monash.edu/>                                                                |
 PhosphOrtholog|<http://www.phosphortholog.com/>                                                                       |
-PIPs 	     |<http://www.compbio.dundee.ac.uk/www-pips/index.jsp>                                                    |
+PIPs 	       |<http://www.compbio.dundee.ac.uk/www-pips/index.jsp>                                                    |
 PrePPI	     |<https://bhapp.c2b2.columbia.edu/PrePPI/index.html>                                                     |
 ProKinO	     |<http://vulcan.cs.uga.edu/prokino/about/browser>                                                        |
 ProteomicsDB |<https://www.proteomicsdb.org/>                                                                         |
 Quokka       |<http://quokka.erc.monash.edu/>                                                                         |
 RasMol       |<http://www.bernstein-plus-sons.com/software/rasmol/>                                                   |
 ScaPD 	     |<http://bioinfo.wilmer.jhu.edu/ScaPD/>                                                                  |
-SMPDB	     |<https://smpdb.ca/view/SMP0000179>                                                                      |
+SMPDB	       |<https://smpdb.ca/view/SMP0000179>                                                                      |
 SpindleP     |<http://www.cbs.dtu.dk/services/SpindleP/>                                                              |
 StSNP        |<http://ilyinlab.org/StSNP/>                                                                            |
 SubPhosPred  |<http://bioinfo.ncu.edu.cn/SubPhosPred.aspx>                                                            |
@@ -638,13 +638,88 @@ SURFY 	     |<http://wlab.ethz.ch/surfaceome/>                                  
 The Proteomedb|<http://proteomebrowser.org/tpb/home.jspx>                                                             |
 TissueNet    |<http://netbio.bgu.ac.il/tissuenet/>                                                                    |
 TRI_tool     |<https://www.vin.bg.ac.rs/180/tools/tfpred.php>                                                         |
-UniHI	     |<http://www.unihi.org/>                                                                                 |
+UniHI	       |<http://www.unihi.org/>                                                                                 |
 VDJsolver    |<http://www.cbs.dtu.dk/services/VDJsolver/>                                                             |
   
+# Regulatory databases
+
+**Database** |                  **URL**                                                                               |
+ChIPSummitDB |<http://summit.med.unideb.hu/summitdb/index.php>                                                        |
+CREME 	     |<https://creme.dcode.org/>                                                                              |
+CRUNCH       |<http://crunch.unibas.ch/crunch/>                                                                       |
+FirstEF 	   |<http://rulai.cshl.org/tools/FirstEF/>                                                                  |
+GlycoViewer  |<http://www.glycoviewer.babs.unsw.edu.au/>                                                              |
+HERVd 	     |<https://herv.img.cas.cz/>                                                                              |
+HumCFS       |<https://webs.iiitd.edu.in/raghava/humcfs/index.html>                                                   |
+Interferome  |<http://interferome.its.monash.edu.au/interferome/home.jspx>                                            |
+JASPAR 	     |<http://jaspar.genereg.net/>                                                                            |
+MANTA	       |<http://manta.cmmt.ubc.ca/manta2/upload>                                                                |
+MEME Suite   |<http://meme-suite.org/>                                                                                |
+MET 	       |<http://veda.cs.uiuc.edu/MET/>                                                                          |
+microDoR     |<http://reprod.njmu.edu.cn/cgi-bin/microdor/index.py>                                                   |
+OsteosAtlas  |<http://biokb.ncpsb.org/osteoporosis/index.php>                                                         |
+PReMod       |<http://genomequebec.mcgill.ca/PReMod>                                                                  |
+SM-TF      	 |<http://zoulab.dalton.missouri.edu/SM-TF/>                                                              |
+TcoF-DB	     |<https://tools.sschmeier.com/tcof/home/>                                                                |
+TFBSbank	   |<http://tfbsbank.co.uk/>                                                                                |
+TFClass      |<http://tfclass.bioinf.med.uni-goettingen.de/>                                                          |
+TFCONES	     |<http://tfcones.fugu-sg.org/>                                                                           |
+TFM-Explorer |<https://bioinfo.lifl.fr/TFM/>                                                                          |
+TMREC      	 |<http://www.jianglab.cn/TMREC/>                                                                         |
+TRANSFAC	   |<http://genexplain.com/transfac/>                                                                       |
+TTSMI        |<http://ttsmi.bii.a-star.edu.sg/>                                                                       |
 
 
+#  Other databases
 
+**Database** |                  **URL**                                                                               |
+AAgAtlas     |<http://biokb.ncpsb.org/aagatlas/>                                                                      |
+CytReD	     |<http://www.cro-m.eu/CytReD/>                                                                           |
+dbMHC	       |<https://ftp.ncbi.nlm.nih.gov/pub/mhc/mhc/Final%20Archive/>                                             |
+Epipox	     |<http://imed.med.ucm.es/epipox/>                                                                        |
+GADGET       |<http://gadget.biosci.gatech.edu>                                                                       |
+GDA	         |<https://geneticassociationdb.nih.gov/>                                                                 |
+GIANT        |<https://portals.broadinstitute.org/collaboration/giant/index.php/GIANT_consortium>                     |
+Global Biobank Engine|<https://biobankengine.stanford.edu/>                                                           |
+GuavaH       |<http://www.guavah.org/>                                                                                |
+GUIDES       |<http://guides.sanjanalab.org/#/>                                                                       |
+H2P2         |<http://h2p2.oit.duke.edu/H2P2Home/>                                                                    |
+HLA-ADR	     |<http://www.allelefrequencies.net/hla-adr/>                                                             |
+HLAsupE   	 |<http://www.immunoinformatics.net/HLAsupE/index.html>                                                   |
+HPtaa        |<http://www.bioinfo.org.cn/hptaa/>                                                                      |
+HyperCLDB    |<http://bioinformatics.hsanmartino.it/hypercldb/>                                                       |
+IEDB         |<https://www.iedb.org/>                                                                                 |
+iLoc-Cell	   |<http://www.jci-bioinfo.cn/iLoc-Hum>                                                                    |
+IMGT	       |<http://www.imgt.org/>                                                                                  |
+IPD-IMGT/HLA |<https://www.ebi.ac.uk/ipd/imgt/hla/>                                                                   |
+IPD-MHC      |<https://www.ebi.ac.uk/ipd/mhc/>                                                                        |
+LD Hub	     |<http://ldsc.broadinstitute.org/>                                                                       |
+MARome 	     |<http://196.1.114.46:8080/MARome/index>                                                                 |
+MetabolomicsGWAS|<http://metabolomics.helmholtz-muenchen.de/gwas/index.php>                                           |
+MitoAge 	   |<http://www.mitoage.info/>                                                                              |
+MNDR	       |<http://www.rna-society.org/mndr/>                                                                      | 
+mtDNA-Server |<https://mtdna-server.uibk.ac.at/index.html>                                                            |
+NetMHC-3.0   |<http://www.cbs.dtu.dk/services/NetMHC/>                                                                |
+NetMHCIIpan  |<http://www.cbs.dtu.dk/services/NetMHCIIpan/>                                                           |
+PathogenFind |< 	https://cge.cbs.dtu.dk/services/PathogenFinder/>                                                    |
+PEPVAC 	     |<http://imed.med.ucm.es/PEPVAC/>                                                                        |
+PhosphoPICK  |<http://bioinf.scmb.uq.edu.au/phosphopick/phosphopick>                                                  |
+PolyDoms     |<https://polydoms.cchmc.org/polydoms/>                                                                  |
+PolySearch2  |<http://polysearch.cs.ualberta.ca/index>                                                                |
+PRS          |<http://mrcieu.mrsoftware.org/PRS_atlas/>                                                               |
+Psmir	       |<http://bio-bigdata.hrbmu.edu.cn/Psmir/>                                                                |
+ReCGiP       |<http://klab.sjtu.edu.cn/ReCGiP/>                                                                       |
+SHOGoiN	     |<https://stemcellinformatics.org/>                                                                      |
+SNPDelScore  |<https://www.ncbi.nlm.nih.gov/research/snpdelscore/>                                                    |
+StemCellNet  |<http://stemcellnet.sysbiolab.eu/>                                                                      |
+SWATHAtlas	 |<http://www.swathatlas.org/>                                                                            |
+SysteMHCAtlas|<https://systemhcatlas.org/>                                                                            |
+TCLP	       |<http://celllines.tron-mainz.de/>                                                                       |
+TCRex 	     |<https://tcrex.biodatamining.be/instructions/>                                                          |
+The SBT	     |<https://ftp.ncbi.nlm.nih.gov/pub/mhc/mhc/Final%20Archive/>                                             |
+VaDE	       |<http://bmi-tokai.jp/VaDE/>                                                                             |
 
+# For more informations, please visit our paper :)
 
 
 
