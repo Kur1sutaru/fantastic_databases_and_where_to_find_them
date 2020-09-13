@@ -104,14 +104,15 @@ And **pLi** is a GNOMAD <https://gnomad.broadinstitute.org/> metric is the proba
 
 The ouput screen also show more options, such as Summary of Gene-Disease Associations, Evidence for Gene-Disease Associations, Summary of Variant-Disease Associations and Evidences of Variant-Disease Associations. Currently, the database also provides a COVID-19 related search <https://www.disgenet.org/covid/genes/evidences/?gene_id=59272>
 
-In Harmonizome, 
+In Harmonizome, the ouput of the search for *ACE2* gene generates a list of associated terms, such as **Name**, **Description**, **Synonyms**, **Proteins**, **NCBI Gene ID**, an option to Download the Associations	in a .csv file, **Predicted Functions**, **Co-expressed Genes** , and **Expression in Tissues and Cell Lines**. Figure 1 show the plot of the Tissue Expression option:
 
 
 <img src= "./images/tissueexpression.png">
 
+For **Functional Associations**, Harmonizome links up to 30 different resources related to the query gene.
 
 
-
+## Step 3: searching of *ACE2* Gene expression
 
 
 
