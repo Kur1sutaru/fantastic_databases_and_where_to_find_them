@@ -1,7 +1,7 @@
 # Fantastic databases and where to find them
 
 Repository of Databases for omic data
-
+https://kur1sutaru.github.io/fantastic_databases_and_where_to_find_them/
 
 In this study, we report an overview of human databases with web applications, in twelve major topics:
 
