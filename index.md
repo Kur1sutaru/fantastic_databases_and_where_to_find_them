@@ -132,7 +132,7 @@ The initial screen show several options for input data:
 * **By Tissue** - 	Browse and search all data by tissue
 * **Histology Image Viewer**	- Browse and search GTEx histology images
 * **Expression** 
-              Multi-Gene Quer - Browse and search expression by gene and tissue
+              Multi-Gene Query - Browse and search expression by gene and tissue
               Top 50 Expressed Genes - Visualize the top 50 expressed genes in each tissue
               Transcript Browser	Visualize transcript expression and isoform structures
 * **QTL**
@@ -150,15 +150,13 @@ In the option "Browse By gene ID", we can visualize the expression of *ACE2* acr
 
 <img src= "./images/gene-exp-plot.svg"> 
 
+We also visualize the Exon Expression of *ACE2*:
 
+<img src= "./images/gtex-exon-expression.PNG"> 
+<img src= "./images/gtex-gene-model-exon.PNG"> 
 
-
-
-
-
-
-
-
+In the **Expression** - Multi-Gene Query - the input as a gene list, we chose compare the expression of the *ACE* and *ACE2* genes:
+<img src= "./images/gtex-multiquerygene.PNG"> 
 
 
 
