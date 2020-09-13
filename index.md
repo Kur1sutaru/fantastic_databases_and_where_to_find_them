@@ -64,7 +64,7 @@ Using the OMIM database, we found:
   - [X] **Cytogenetic location**: Xp22.2
   - [X] **Genomic coordinates** (GRCh38): X:15,518,196-15,602,157 (retrieved from NCBI).
 
-<div style="text-align: justify"> Also, OMIM provides information about **Cloning and Expression**, **Gene Structure**, **Mapping**, **Gene Function**, **Biochemical Features**, **Molecular Genetics**, **Animal Model** information, and **REFERENCES** related to the gene.  </div>
+  Also, OMIM provides information about **Cloning and Expression**, **Gene Structure**, **Mapping**, **Gene Function**, **Biochemical Features**, **Molecular Genetics**, **Animal Model** information, and **REFERENCES** related to the gene.
 
 Using GeneCards <https://www.genecards.org/>, we found several topics about the *ACE2* gene:
 
