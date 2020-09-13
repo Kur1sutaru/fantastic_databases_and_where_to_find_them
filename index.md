@@ -83,9 +83,18 @@ Using GeneCards <https://www.genecards.org/>, we found several topics about the 
 
 ## Step 2: searching in Genomic and sequence databases
 To obtain more informations about *ACE2* related diseases, we search informations in DisGenet and Harmonizome.
-The initial screen of DisgeNet shows three options of input: * disease * genes * variants
+The initial screen of DisgeNet shows three options of input: 1) disease 2) genes 3) variants
 We choose the second option: genes to search information about the *ACE2* gene.
+The screen shows these options:
 
+[X] **Entrez Identifier**: 59272
+[X] **Gene Symbol**: *ACE2*
+[X] **Uniprot Accession**: Q9BYF1
+[X] **Full Name**: Angiotensin I converting enzyme 2
+[X] **Protein Class**: Enzyme
+[X] **DPI**: 0.769
+[X] **DSI**: 0.477
+[X] **pLi**: 0.99769
 
 
 
