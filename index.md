@@ -87,14 +87,14 @@ The initial screen of DisgeNet shows three options of input: 1) disease 2) genes
 We choose the second option: genes to search information about the *ACE2* gene.
 The screen shows these options:
 
-[X] **Entrez Identifier**: 59272
-[X] **Gene Symbol**: *ACE2*
-[X] **Uniprot Accession**: Q9BYF1
-[X] **Full Name**: Angiotensin I converting enzyme 2
-[X] **Protein Class**: Enzyme
-[X] **DPI**: 0.769
-[X] **DSI**: 0.477
-[X] **pLi**: 0.99769
+* **Entrez Identifier**: 59272
+* **Gene Symbol**: *ACE2*
+* **Uniprot Accession**: Q9BYF1
+* **Full Name**: Angiotensin I converting enzyme 2
+* **Protein Class**: Enzyme
+* **DPI**: 0.769
+* **DSI**: 0.477
+* **pLi**: 0.99769
 
 
 
