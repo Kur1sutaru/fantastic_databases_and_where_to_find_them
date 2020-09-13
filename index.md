@@ -119,6 +119,19 @@ In ESCAPE, we have the options RNAi screens, protein lists from IP-MS pull-downs
 
 <img src= "./images/escape-output.PNG"> 
 
+Additionally, in the bottom of gene list, we found the EnrichR option, which provide gene terms related to Transcription, Pathways, Ontologies, Disease/Drugs, Cell types, and other resources. Figure 3 exemplifies a Pathway result of the gene input generated in ESCAPE:
+
+<img src= "./images/escape-enrichr.PNG"> 
+
+
+
+
+
+
+
+
+
+
 
 
 # Here we provide the complete list of databases:
