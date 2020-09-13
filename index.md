@@ -81,7 +81,10 @@ Using GeneCards <https://www.genecards.org/>, we found several topics about the 
 * Orthologs, Paralogs, Disorders and Variants for *ACE2* Gene
 * Publications, Products and Sources.
 
-
+## Step 2: searching in Genomic and sequence databases
+To obtain more informations about *ACE2* related diseases, we search informations in DisGenet and Harmonizome.
+The initial screen of DisgeNet shows three options of input: * disease * genes * variants
+We choose the second option: genes to search information about the *ACE2* gene.
 
 
 
