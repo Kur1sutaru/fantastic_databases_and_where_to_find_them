@@ -123,6 +123,36 @@ Additionally, in the bottom of gene list, we found the EnrichR option, which pro
 
 <img src= "./images/escape-enrichr.PNG"> 
 
+The Genotype-Tissue Expression (GTEx) project is an ongoing effort to build a comprehensive public resource to study tissue-specific gene expression and regulation. Samples were collected from 54 non-diseased tissue sites across nearly 1000 individuals, primarily for molecular assays including WGS, WES, and RNA-Seq. Remaining samples are available from the GTEx Biobank. The GTEx Portal provides open access to data including gene expression, QTLs, and histology images.
+
+The initial screen show several options for input data:
+* **Browse**  By gene ID - Browse and search all data by gene
+              By variant or rs ID - Browse and search all data by variant
+              
+* **By Tissue** - 	Browse and search all data by tissue
+* **Histology Image Viewer**	- Browse and search GTEx histology images
+* **Expression** 
+              Multi-Gene Quer - Browse and search expression by gene and tissue
+              Top 50 Expressed Genes - Visualize the top 50 expressed genes in each tissue
+              Transcript Browser	Visualize transcript expression and isoform structures
+* **QTL**
+              Locus Browser	Visualize QTLs by gene in the Locus Browser
+              Locus Browser - Visualize QTLs by variant in the Locus Browser VC (Variant Centric)
+              IGV Browser	 - Visualize tissue-specific eQTLs and coverage data in the IGV Browser
+              eQTL Dashboard	- Batch query eQTLs by gene and tissue
+              eQTL Calculator	- Test your own eQTLs
+* **eGTEx**
+              H3K27ac	Browse - H3K27ac ChIP-seq data in IGV Browser
+* **Biobank**
+              Access Biospecimens	Search and request available GTEx biospecimens
+
+In the option "Browse By gene ID", we can visualize the expression of *ACE2* across more than 30 tissues (Figure 4) 
+
+<img src= "./images/gene-exp-plot.svg"> 
+
+
+
+
 
 
 
