@@ -197,6 +197,15 @@ Note: the quality of the image generated is unclear.
 
 <img src= "./images/data.png">
 
+# Step 6: Alternative splicing databases
+
+Here we explore the alternative forms of *ACE2*, first we search in ASPic DB. The gene results can be downloaded and the following output was shown: 
+<img src= "./images/aspic-1.PNG">
+
+Aspic Results column show the gene information, Gene Structure View, Predicted Transcripts, Transcript Table, Predicted Proteins, Protein Table, Predicted Splice Sites and Intron Table.
+<img src= "./images/aspic-gene-structure.PNG">
+ 
+<img src= "./images/aspic-predicted.PNG">
 
 
 
