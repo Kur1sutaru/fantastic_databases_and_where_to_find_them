@@ -158,6 +158,18 @@ We also visualize the Exon Expression of *ACE2*:
 In the **Expression** - Multi-Gene Query - the input as a gene list, we chose compare the expression of the *ACE* and *ACE2* genes:
 <img src= "./images/gtex-multiquerygene.PNG"> 
 
+## Step 4: searching in Cancer databases
+
+To evaluate the expression pattern of *ACE2* in cancer cell lines, we used CCLE - Cancer Cell Line Encyclopedia. The aims of the database were to characterize of a large panel of human cancer models, to develop integrated computational analyses that link distinct pharmacologic vulnerabilities to genomic patterns and to translate cell line integrative genomics integrative genomics into cancer patient stratification.
+When search by *ACE2*, the database screen show the Entrez ID (59272), the description (angiotensin I converting enzyme 2), and several external Links. Below, the interactive plot shows the distribution by lineage (RNA-seq expression) and the option to download the data (figure 5)       
+<img src= "./images/ccle.PNG">
+
+Other options are: scatter plots of the query gene, with the option to compare with other differentially expressed genes across the available datasets, mutation data (users with previously login only), Fusions/Translocations data, and methylation - CpG viewer.
+
+
+
+
+
 
 
 
