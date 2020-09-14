@@ -166,8 +166,17 @@ When search by *ACE2*, the database screen show the Entrez ID (59272), the descr
 
 Other options are: scatter plots of the query gene, with the option to compare with other differentially expressed genes across the available datasets, mutation data (users with previously login only), Fusions/Translocations data, and methylation - CpG viewer.
 
-
-
+In order to compare the cell line information with clinical data, we chose the TCGA data portal (via GDC data portal, <https://portal.gdc.cancer.gov/>).
+Here we can been search for a specific gene, Cases by Major Primary Site, or for a specific barcode (e.g., TCGA-56-7731, primary site: Bronchus and lung).
+The search by *ACE2* showed the Gene Summary, External References,  Cancer Distribution of Single Nucleotide Variants (SNV) and Copy Number Variation (CNV), functional impact of the variants with the option to trade the gene transcripts, and the most frequent somatic mutations (figure 6). The user can be download all of these results in tables or figures.
+<img src= "./images/tcga1.PNG">
+<img src= "./images/tcga2.PNG">
+<img src= "./images/tcga3.PNG">
+<img src= "./images/tcga4.PNG">
+In the exploration menu, we select "TCGA-LUAD" (LUNG ADENOMAS AND ADENOCARCINOMAS) and obtain 37 cases, with clinical and survival data, mutations and oncogrid (figure 7) 
+<img src= "./images/tcga-survivalace2.PNG">
+<img src= "./images/tcga-survival.PNG">
+<img src= "./images/tcga-luad-oncogrid.PNG">
 
 
 
