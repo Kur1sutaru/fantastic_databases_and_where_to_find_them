@@ -178,6 +178,18 @@ In the exploration menu, we select "TCGA-LUAD" (LUNG ADENOMAS AND ADENOCARCINOMA
 <img src= "./images/tcga-survival.PNG">
 <img src= "./images/tcga-luad-oncogrid.PNG">
 
+# Step 5: Comparative databases
+
+We used TISSUES database to compare the *ACE2* gene expression across human and animal model data (figure8).
+<img src= "./images/TISSUES-MOUSE.PNG">
+<img src= "./images/TISSUES-RAT.PNG">
+<img src= "./images/TISSUES-HUMAN.PNG">
+<img src= "./images/TISSUES-PIG.PNG">
+TISSUES also provides experimental curated data, text mining interactions, and orthologs and paralogs. The confidence of each association is signified by stars, where ★★★★★ is the highest confidence and ★☆☆☆☆ is the lowest. 
+
+
+
+
 
 
 
