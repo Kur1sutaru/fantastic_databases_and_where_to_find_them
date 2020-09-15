@@ -400,9 +400,13 @@ The search return the following error:
 There has been an internal error while processing your request. The problem has been logged and will be investigated. You may also send us an email describing how you encountered this error.
 The problem may be temporary in which case you might wish to go back and try your request again or you might want to go to the home page.
 
+For this reason, we used other metabolic database, The Human Metabolome Database. The Human Metabolome Database (HMDB) is a freely available electronic database containing detailed information about small molecule metabolites found in the human body. It is intended to be used for applications in metabolomics, clinical chemistry, biomarker discovery and general education. The database is designed to contain or link three kinds of data: 1) chemical data, 2) clinical data, and 3) molecular biology/biochemistry data. The database contains 114,221 metabolite entries including both water-soluble and lipid soluble metabolites as well as metabolites that would be regarded as either abundant (> 1 uM) or relatively rare (< 1 nM). Additionally, 5,702 protein sequences are linked to these metabolite entries. Each MetaboCard entry contains 130 data fields with 2/3 of the information being devoted to chemical/clinical data and the other 1/3 devoted to enzymatic or biochemical data. Many data fields are hyperlinked to other databases (KEGG, PubChem, MetaCyc, ChEBI, PDB, UniProt, and GenBank) and a variety of structure and pathway viewing applets. The HMDB database supports extensive text, sequence, chemical structure and relational query searches. 
 
+<img src= "./images/hmdb.PNG">
 
+The result can also visualize into SMPDB (The Small Molecule Pathway Database) is an interactive, visual database containing more than 30 000 small molecule pathways found in humans only.
 
+<img src= "./images/PW000563.png">
 
 
 # Here we provide the complete list of databases:
