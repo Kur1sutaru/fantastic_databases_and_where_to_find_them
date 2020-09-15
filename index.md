@@ -1,11 +1,21 @@
 # Case study: Exploratory *ACE2* analysis using multi-omic web tools
 
 
-### **Table of contents**
 
-  * 🔹 [Introduction] (#Introduction)
-  * 🔹 [Databases used in this Case Study] (#Databases used in this Case Study)
-  * 🔹 [Step 1: Discovering the *ACE2* gene] (#Step 1: Discovering the *ACE2* gene)
+
+  ### **Table of contents**
+
+:small_blue_diamond: [Introduction](#Introduction)
+
+:small_blue_diamond: [Funcionalidades](#funcionalidades)
+
+:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+
+:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+
+:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+
+... 
 
 
 
