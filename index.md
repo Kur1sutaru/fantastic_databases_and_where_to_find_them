@@ -353,6 +353,12 @@ Select the first result, the user can visualize the miRNA target and description
 The user may acess the miRNA information and related references:
 <img src= "./images/mirdb3.PNG">
 
+2) lncRNA and circRNA - exoRBase is a repository of circular RNA (circRNA), long non-coding RNA (lncRNA) and messenger RNA (mRNA) derived from RNA-seq data analyses of human blood exosomes. Experimental validations from published literature are also included. exoRBase features the integration and visualization of RNA expression profiles based on normalized RNA-seq data spanning both normal individuals and patients with different diseases.
+The user can visualize the data in three different plots: line chart, heatmap and box plot.
+
+<img src= "./images/exorbase1.png">
+<img src= "./images/exorbase-heatmap.png">
+<img src= "./images/chart (1).png">
 
 
 
