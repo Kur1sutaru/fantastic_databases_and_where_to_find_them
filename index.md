@@ -337,6 +337,30 @@ TTSMI (TTS Mapping and Integration) database allows the user to facilitate in (i
 Search by *ACE2* with all default parameters, the website was not return any results.
 <img src= "./images/ttsmi.PNG">
 
+
+## Step 8: miRNA, lncRNA and circRNA Databases
+
+We used one miRNA database, one lncRNA and circRNA database and one viral miRNA database in order to improve our results.
+
+1) miRNA - miRDB - miRDB is an online database for miRNA target prediction and functional annotations. All the targets in miRDB were predicted by a bioinformatics tool, MirTarget, which was developed by analyzing thousands of miRNA-target interactions from high-throughput sequencing experiments. Common features associated with miRNA binding and target downregulation have been identified and used to predict miRNA targets with machine learning methods. miRDB hosts predicted miRNA targets in five species: human, mouse, rat, dog and chicken. Users may also provide their own sequences for custom target prediction using the updated prediction algorithm. In addition, through combined computational analyses and literature mining, functionally active miRNAs in humans and mice were identified. These miRNAs, as well as associated functional annotations, are presented in the FuncMir Collection in miRDB. As a recent update, miRDB presents the expression profiles of hundreds of cell lines and the user may limit their search for miRNA targets that are expressed in a cell line of interest. The user can choose one of the following search options: Search by miRNA name OR Search by gene target
+The initial search returns 50 miRNA candidates to bind the *ACE2* gene:
+
+<img src= "./images/mirdb1.PNG">
+
+Select the first result, the user can visualize the miRNA target and description:
+img src= "./images/mirdb2.PNG">
+
+The user may acess the miRNA information and related references:
+img src= "./images/mirdb3.PNG">
+
+
+
+
+
+
+
+
+
 # Here we provide the complete list of databases:
 
 # Alternative splicing databases
