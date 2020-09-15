@@ -7,7 +7,7 @@
 
 :small_blue_diamond: [Introduction](#Introduction)
 
-:small_blue_diamond: [Databases used in this Case Study](#databases-used-in-this-case-study)
+:small_blue_diamond: [Databases used in this Case Study](#Databases-used-in-this-Case-Study)
 
 :small_blue_diamond: [Step 1: Discovering the *ACE2* gene](#step-1:-discovering-the-ACE2-gene)
 
