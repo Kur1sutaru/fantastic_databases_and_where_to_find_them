@@ -276,8 +276,12 @@ The results are divided into: Donor splice sites, direct strand, Donor splice si
 
 Note: the output - and graphical output was not explained. For more information about the output results, the user can read in the output format page <http://www.cbs.dtu.dk/services/NetGene2/output.php>
 
+## Step 6: methylation databases
+To analyze the methylation pattern of *ACE2* gene, we select BECon: A tool for interpreting DNA methylation findings from blood in the context of brain, and DiseaseMeth version 2.0 - The human disease methylation database.
 
-
+The aim of BECon (Blood-Brain Epigenetic Concordance) is to allow for improved interpretation of surrogate methylation results by looking at the relationship human blood and brain methylation.
+<img src= "./images/BECON.PNG">
+Spearman correlation values of methylation between blood and the listed brain region. In these columns colors are used to show the percentile of all correlations each value reaches (see legend). Darker grey and orange represent lower or higher correlations, repetitively. The cell composition metrics are the delta betas between data unadjusted for cell composition and data adjusted for cell composition. So how much the beta values change on average at a CpG with cell composition adjustment.
 
 
 
