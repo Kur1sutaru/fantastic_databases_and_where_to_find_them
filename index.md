@@ -360,6 +360,19 @@ The user can visualize the data in three different plots: line chart, heatmap an
 <img src= "./images/exorbase-heatmap.png">
 <img src= "./images/chart (1).png">
 
+3) Viral miRNA -  VirMir: a database containing predicted viral miRNA candidate hairpins. 
+The microRNA hairpin discovery pipeline was also applied to discover viral encoded microRNAs. All viral genomes were obtain from NCBI. The classification of virus is based on the taxonomy table of NCBI (Jun, 2006). Totally, the genomes of 2266 viruses were analyzed. Users may query the putative miRNA hairpins of a specific viral species by the hierarchical menu or by search function using the GenBank Identifier or RefSeq accession number(e.g. 30844336 or NC_003663 for Cowpox virus). In addition, users can also search for the putative target genes of a particular viral miRNA hairpins by a RNAhybrid service link. The 3'-UTR regions of human, mouse, rat, zebrafish, arabidopsis and rice genes are available for search.
+Results:
+<img src= "./images/virmir-result.PNG">
+
+Exploring Human coronavirus OC43 - first result - 22979
+<img src= "./images/virmir-result1.PNG">
+
+Target prediction with RNAhybrid
+For each putative or known miRNA, user may query the target sites in the 3'UTR regions of genes of human, mouse, rat, zebrafish, rice or Arabidopsis. From the human.rna.fna file downloaded from NCBI, we fetched the sequences of human 3'UTRs based on the CDS (coding sequence) positions acquired from the human.rna.gbff file. We adopted the same strategy for the mouse, rat, zebrafish, rice and Arabidopsis 3'UTRs.
+In our case, the result send by e-mail was empty, which means there's no matching sequence returned from RNAhybrid.
+When operating RNAhybrid, the pipeline first calculates the optimal free energy of miRNA at which it binds to a perfectly complementary site, then the miRNA/mRNA duplex mfe (minimum free energy). An alignment whose RNA duplex mfe is more than the selected percentage of its correspondent optimal free energy is regarded as a positive alignment. The alignment result will be sent to the users via their e-mail addresses.
+
 
 
 
