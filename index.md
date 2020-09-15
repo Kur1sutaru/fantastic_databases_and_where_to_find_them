@@ -348,10 +348,10 @@ The initial search returns 50 miRNA candidates to bind the *ACE2* gene:
 <img src= "./images/mirdb1.PNG">
 
 Select the first result, the user can visualize the miRNA target and description:
-img src= "./images/mirdb2.PNG">
+<img src= "./images/mirdb2.PNG">
 
 The user may acess the miRNA information and related references:
-img src= "./images/mirdb3.PNG">
+<img src= "./images/mirdb3.PNG">
 
 
 
