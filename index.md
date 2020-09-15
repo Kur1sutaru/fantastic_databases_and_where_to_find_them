@@ -5,7 +5,7 @@
 
   ### **Table of contents**
 
-:small_blue_diamond: [Introduction](#Introduction)
+* [Introduction](#Introduction)
 
 :small_blue_diamond: [Databases used in this Case Study](#Databases-used-in-this-Case-Study)
 
