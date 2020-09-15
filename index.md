@@ -332,9 +332,10 @@ Interferon type: The Venn diagram shows the number of genes regulated by one or 
 
 <img src= "./images/interferome-ifntype.PNG">
 
+TTSMI (TTS Mapping and Integration) database allows the user to facilitate in (i) searching of the TTS using several search terms including genomic location, gene ID, NCBI RefSeq ID, TTS ID, gene symbol and gene description keywords, (ii) interactive filtering of the TTS co-localized with several other gene regulatory signals, (iii) exploring of dynamic combination of structural and functional annotations of specific TTS, and (iv) viewing of the TTS simultaneously with diverse annotation tracks via UCSC genome browser link. The user can quickly search and filter the TTS candidates from our largest collection of unique TTS location. In terms of finding therapeutic targets, the specificity of TTS is the most important factor to control off-target effects. 
 
-
-
+Search by *ACE2* with all default parameters, the website was not return any results.
+<img src= "./images/ttsmi.PNG">
 
 # Here we provide the complete list of databases:
 
