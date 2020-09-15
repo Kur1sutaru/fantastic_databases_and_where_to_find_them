@@ -5,37 +5,37 @@
 
   ### **Table of contents**
 
-* [Introduction](#Introduction)
+  * [Introduction](#Introduction)
 
-* [Databases used in this Case Study](#Databases-used-in-this-Case-Study)
+  * [Databases used in this Case Study](#Databases-used-in-this-Case-Study)
 
-* [Step 1- Discovering the ACE2 gene](#Step-1-Discovering-the-ACE2-gene)
+  * [Step 1- Discovering the ACE2 gene](#Step-1-Discovering-the-ACE2-gene)
 
-* [Step 2- searching in Genomic and sequence databases](#Step-2-searching-in-Genomic-and-sequence-databases)
+  * [Step 2- searching in Genomic and sequence databases](#Step-2-searching-in-Genomic-and-sequence-databases)
 
-* [Step 3- searching of ACE2 Gene expression](#Step-3-searching-of-ACE2-Gene-expression)
+  * [Step 3- searching of ACE2 Gene expression](#Step-3-searching-of-ACE2-Gene-expression)
 
-* [Step 4- searching in Cancer databases](#Step-4-searching-in-Cancer-databases)
+  * [Step 4- searching in Cancer databases](#Step-4-searching-in-Cancer-databases)
 
-* [Step 5- Comparative databases](#Step-5-Comparative-databases)
+  * [Step 5- Comparative databases](#Step-5-Comparative-databases)
 
-* [Step 6- Alternative splicing databases](#Step-6-Alternative-splicing-databases)
+  * [Step 6- Alternative splicing databases](#Step-6-Alternative-splicing-databases)
 
-* [Step 7- methylation databases](#Step-7-methylation-databases)
+  * [Step 7- methylation databases](#Step-7-methylation-databases)
 
-* [Step 8- Regulatory Databases](#Step-8-Regulatory-Databases)
+  * [Step 8- Regulatory Databases](#Step-8-Regulatory-Databases)
 
-* [Step 9- miRNA, lncRNA and circRNA Databases](#Step-9-miRNA-lncRNA-and-circRNA-Databases)
+  * [Step 9- miRNA, lncRNA and circRNA Databases](#Step-9-miRNA-lncRNA-and-circRNA-Databases)
 
-* [Step 10- Metabolic databases](#Step-10-Metabolic-databases)
+  * [Step 10- Metabolic databases](#Step-10-Metabolic-databases)
 
-* [Step 11- Disease-specific and variant-disease association:](#Step-11-Disease-specific-and-variant-disease-association)
+  * [Step 11- Disease-specific and variant-disease association:](#Step-11-Disease-specific-and-variant-disease-association)
 
-* [Step 12- Proteome databases](#Step-12-Proteome-databases)
+  * [Step 12- Proteome databases](#Step-12-Proteome-databases)
 
-* [Step 13- Other databases](#Step-13-Other-databases)
+  * [Step 13- Other databases](#Step-13-Other-databases)
 
-* [Complete list of databases](#Complete-list-of-databases)
+  * [Complete list of databases](#Complete-list-of-databases)
 
 
 
