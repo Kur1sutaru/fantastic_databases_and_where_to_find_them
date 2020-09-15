@@ -178,7 +178,7 @@ In the exploration menu, we select "TCGA-LUAD" (LUNG ADENOMAS AND ADENOCARCINOMA
 <img src= "./images/tcga-survival.PNG">
 <img src= "./images/tcga-luad-oncogrid.PNG">
 
-# Step 5: Comparative databases
+## Step 5: Comparative databases
 
 We used TISSUES database to compare the *ACE2* gene expression across human and animal model data (figure8).
 <img src= "./images/TISSUES-MOUSE.PNG">
@@ -276,7 +276,7 @@ The results are divided into: Donor splice sites, direct strand, Donor splice si
 
 Note: the output - and graphical output was not explained. For more information about the output results, the user can read in the output format page <http://www.cbs.dtu.dk/services/NetGene2/output.php>
 
-## Step 6: methylation databases
+## Step 7: methylation databases
 To analyze the methylation pattern of *ACE2* gene, we select BECon: A tool for interpreting DNA methylation findings from blood in the context of brain, and DiseaseMeth version 2.0 - The human disease methylation database.
 
 The aim of BECon (Blood-Brain Epigenetic Concordance) is to allow for improved interpretation of surrogate methylation results by looking at the relationship human blood and brain methylation.
@@ -305,6 +305,32 @@ Disease gene association:
 Survival analysis: at this moment, the survival analysis was fail
 <img src= "./images/dishmethsurvival.PNG">
 <img src= "./images/deuruim.PNG">
+
+## Step 8: Regulatory Databases
+Here we used the Interferome db and TTSMI (Triplex Target DNA Site Mapping and Integration).
+The Interferome db - users guide has the link broken (PDF not found). The parameters are: 
+* Interferon Type: (ALL) subtype: (ALL)
+* Treatment Concentration: Any Treatment Time: Any 
+* In Vivo / In Vitro: All Species: ALL
+* System:	(Cell or tissues): ALL
+* Sample Types:	Any (Normal AND Abnormal)
+* Fold Change option - Up: 2.0   Down: 2.0  (The Fold Change value must be greater or equal to 1)
+* Gene Symbol List: *ACE, ACE2* 
+
+The output show several options: Search Conditions, Gene Summary, Experiment Data, Ontology Analysis, TF Analysis, Chromosome, IFN Type, and Basal Expression
+The Experiment data option:
+
+<img src= "./images/interferome-gene-experiment.PNG">
+
+Transcription Factor provided by TRANSFAC database
+
+<img src= "./images/interferome-tf.PNG">
+
+The location of transcription factors on each of the genes from the region spaning -1500bp to + 500 bp from the start site. Each coloured box represents a specific transcription factor, the key for which is provided below the graphic. The user can move the cursor over the transciption factor's coloured box to reveal the TRANSFAC* predicted match between the transcription factor and its predicted binding site.
+
+Interferon type: The Venn diagram shows the number of genes regulated by one or more IFN type (Type I, II or III). It should be noted that there are far more datasets for genes regulated by type I than for types II or III, this imbalance introduces the risk of false nagatives and bias for the under-represented types II and III; caution is therefore encouraged in interpreting low or negative results from these types.
+
+<img src= "./images/interferome-ifntype.PNG">
 
 
 
