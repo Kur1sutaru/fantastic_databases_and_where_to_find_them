@@ -9,7 +9,7 @@
 
 * [Databases used in this Case Study](#Databases-used-in-this-Case-Study)
 
-* [Step 1: Discovering the *ACE2* gene](#Step-1:-Discovering-the-ACE2-gene)
+* [Step 1: Discovering the ACE2 gene](#Step-1:-Discovering-the-ACE2-gene)
 
 * [Step 2: searching in Genomic and sequence databases](#Step-2-searching-in-Genomic-and-sequence-databases)
 
@@ -101,7 +101,7 @@ Other databases:
 * VDJdb (COVID-19) - <https://vdjdb.cdr3.net/>
 
 
-## Step 1: Discovering the *ACE2* gene
+## Step 1: Discovering the ACE2 gene
 
 First of all, we use OMIM <https://omim.org/> to found more informations abou the *ACE2* gene. 
 
