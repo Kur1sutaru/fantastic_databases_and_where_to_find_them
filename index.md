@@ -1,8 +1,21 @@
 # Case study: Exploratory *ACE2* analysis using multi-omic web tools
 
+
+### **Table of contents**
+
+🔹 [Introduction] (#Introduction)
+🔹 [Databases used in this Case Study] (#Databases used in this Case Study)
+🔹 [Step 1: Discovering the *ACE2* gene] (#Step 1: Discovering the *ACE2* gene)
+
+
+
+
+## Introduction
 <div style="text-align: justify"> This work is part of the article "Fantastic databases and where to find them." To demonstrate how the tools mentioned above work, we chose a case study on ACE2, the Angiotensin I Converting Enzyme 2, an important enzyme related to  Covid-19 and Severe Acute Respiratory Syndrome.
 To evaluate the top tools provided in our study, we explore ACE2 data with the following databases and tools: </div>
 
+
+## Databases used in this Case Study
 
 Alternative splicing:
 * ASPicDB - <http://srv00.recas.ba.infn.it/ASPicDB/>
@@ -433,6 +446,32 @@ Here, we we only show results related to variants:
 <img src= "./images/varsome-variants.PNG">
 <img src= "./images/varsome-2.PNG">
 <img src= "./images/varsome3.PNG">
+
+The second database, MARRVEL (Model organism Aggregated Resources for Rare Variant ExpLoration) aims to facilitate the use of public genetic resources to prioritize rare human gene variants for study in model organisms. To facilitate the search process and gather all the data in a simple display we extract data from human data bases (OMIM, ExAC, ClinVar, Geno2MP, DGV, and DECIPHER) for efficient variant prioritization. The protein sequences for eight organisms (S. cerevisiae, S. pombe, C. elegans, D. melanogaster, D. rerio, M. musculus, R. norvegicus, and H. sapiens) are aligned with highlighted protein domain information via collaboration with DIOPT. The key biological and genetic features are then extracted from existing model organism databases (SGD, PomBase, WormBase, FlyBase, ZFIN, MGI, and RGD).
+
+Disease / variant data
+
+<img src= "./images/marvell1.PNG">
+<img src= "./images/marvell2.PNG">
+
+Additionally, the database provides information about expression of Ortholog Genes of *ACE2* and your gene ontology terms:
+
+<img src= "./images/marvell3.PNG">
+<img src= "./images/marvell4.PNG">
+<img src= "./images/marvell5.PNG">
+
+The two used variant-disease databases are complementary and user-friendly.
+
+## Step 12: Proteome databases
+
+
+
+
+
+
+
+
+
 
 
 
