@@ -7,35 +7,35 @@
 
 * [Introduction](#Introduction)
 
-:small_blue_diamond: [Databases used in this Case Study](#Databases-used-in-this-Case-Study)
+* [Databases used in this Case Study](#Databases-used-in-this-Case-Study)
 
-:small_blue_diamond: [Step 1: Discovering the *ACE2* gene](#Step-1:-Discovering-the-ACE2-gene)
+* [Step 1: Discovering the *ACE2* gene](#Step-1:-Discovering-the-ACE2-gene)
 
-:small_blue_diamond: [Step 2: searching in Genomic and sequence databases](#Step-2-searching-in-Genomic-and-sequence-databases)
+* [Step 2: searching in Genomic and sequence databases](#Step-2-searching-in-Genomic-and-sequence-databases)
 
-:small_blue_diamond: [Step 3: searching of ACE2 Gene expression](#Step-3-searching-of-ACE2-Gene-expression)
+* [Step 3: searching of ACE2 Gene expression](#Step-3-searching-of-ACE2-Gene-expression)
 
-:small_blue_diamond: [Step 4: searching in Cancer databases](#Step-4-searching-in-Cancer-databases)
+* [Step 4: searching in Cancer databases](#Step-4-searching-in-Cancer-databases)
 
-:small_blue_diamond: [Step 5: Comparative databases](#Step-5-Comparative-databases)
+* [Step 5: Comparative databases](#Step-5-Comparative-databases)
 
-:small_blue_diamond: [Step 6: Alternative splicing databases](#Step-6-Alternative-splicing-databases)
+* [Step 6: Alternative splicing databases](#Step-6-Alternative-splicing-databases)
 
-:small_blue_diamond: [Step 7: methylation databases](#Step-7-methylation-databases)
+* [Step 7: methylation databases](#Step-7-methylation-databases)
 
-:small_blue_diamond: [Step 8: Regulatory Databases](#Step-8-Regulatory-Databases)
+* [Step 8: Regulatory Databases](#Step-8-Regulatory-Databases)
 
-:small_blue_diamond: [Step 9: miRNA, lncRNA and circRNA Databases](#Step-9-miRNA-lncRNA-and-circRNA-Databases)
+* [Step 9: miRNA, lncRNA and circRNA Databases](#Step-9-miRNA-lncRNA-and-circRNA-Databases)
 
-:small_blue_diamond: [Step 10: Metabolic databases](#Step-10-Metabolic-databases)
+* [Step 10: Metabolic databases](#Step-10-Metabolic-databases)
 
-:small_blue_diamond: [Step 11: Disease-specific and variant-disease association:](#Step-11-Disease-specific-and-variant-disease-association)
+* [Step 11: Disease-specific and variant-disease association:](#Step-11-Disease-specific-and-variant-disease-association)
 
-:small_blue_diamond: [Step 12: Proteome databases](#Step-12-Proteome-databases)
+* [Step 12: Proteome databases](#Step-12-Proteome-databases)
 
-:small_blue_diamond: [Step 13: Other databases](#Step-13-Other-databases)
+* [Step 13: Other databases](#Step-13-Other-databases)
 
-:small_blue_diamond: [Complete list of databases](#Complete-list-of-databases)
+* [Complete list of databases](#Complete-list-of-databases)
 
 
 
