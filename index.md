@@ -11,7 +11,7 @@
 
 :small_blue_diamond: [Step 1: Discovering the *ACE2* gene](#step-1-discovering-the-ACE2-gene)
 
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+:small_blue_diamond: [Step 2: searching in Genomic and sequence databases](#Step-2-searching-in-Genomic-and-sequence-databases)
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
