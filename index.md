@@ -9,31 +9,31 @@
 
 * [Databases used in this Case Study](#Databases-used-in-this-Case-Study)
 
-* [Step 1: Discovering the ACE2 gene](#Step-1:-Discovering-the-ACE2-gene)
+* [Step 1- Discovering the ACE2 gene](#Step-1--Discovering-the-ACE2-gene)
 
-* [Step 2: searching in Genomic and sequence databases](#Step-2-searching-in-Genomic-and-sequence-databases)
+* [Step 2- searching in Genomic and sequence databases](#Step-2-searching-in-Genomic-and-sequence-databases)
 
-* [Step 3: searching of ACE2 Gene expression](#Step-3-searching-of-ACE2-Gene-expression)
+* [Step 3- searching of ACE2 Gene expression](#Step-3-searching-of-ACE2-Gene-expression)
 
-* [Step 4: searching in Cancer databases](#Step-4-searching-in-Cancer-databases)
+* [Step 4- searching in Cancer databases](#Step-4-searching-in-Cancer-databases)
 
-* [Step 5: Comparative databases](#Step-5-Comparative-databases)
+* [Step 5- Comparative databases](#Step-5-Comparative-databases)
 
-* [Step 6: Alternative splicing databases](#Step-6-Alternative-splicing-databases)
+* [Step 6- Alternative splicing databases](#Step-6-Alternative-splicing-databases)
 
-* [Step 7: methylation databases](#Step-7-methylation-databases)
+* [Step 7- methylation databases](#Step-7-methylation-databases)
 
-* [Step 8: Regulatory Databases](#Step-8-Regulatory-Databases)
+* [Step 8- Regulatory Databases](#Step-8-Regulatory-Databases)
 
-* [Step 9: miRNA, lncRNA and circRNA Databases](#Step-9-miRNA-lncRNA-and-circRNA-Databases)
+* [Step 9- miRNA, lncRNA and circRNA Databases](#Step-9-miRNA-lncRNA-and-circRNA-Databases)
 
-* [Step 10: Metabolic databases](#Step-10-Metabolic-databases)
+* [Step 10- Metabolic databases](#Step-10-Metabolic-databases)
 
-* [Step 11: Disease-specific and variant-disease association:](#Step-11-Disease-specific-and-variant-disease-association)
+* [Step 11- Disease-specific and variant-disease association:](#Step-11-Disease-specific-and-variant-disease-association)
 
-* [Step 12: Proteome databases](#Step-12-Proteome-databases)
+* [Step 12- Proteome databases](#Step-12-Proteome-databases)
 
-* [Step 13: Other databases](#Step-13-Other-databases)
+* [Step 13- Other databases](#Step-13-Other-databases)
 
 * [Complete list of databases](#Complete-list-of-databases)
 
@@ -101,7 +101,7 @@ Other databases:
 * VDJdb (COVID-19) - <https://vdjdb.cdr3.net/>
 
 
-## Step 1: Discovering the ACE2 gene
+## Step 1- Discovering the ACE2 gene
 
 First of all, we use OMIM <https://omim.org/> to found more informations abou the *ACE2* gene. 
 
@@ -128,7 +128,7 @@ Using GeneCards <https://www.genecards.org/>, we found several topics about the 
 * Orthologs, Paralogs, Disorders and Variants for *ACE2* Gene
 * Publications, Products and Sources.
 
-## Step 2: searching in Genomic and sequence databases
+## Step 2- searching in Genomic and sequence databases
 To obtain more informations about *ACE2* related diseases, we search informations in DisGenet and Harmonizome.
 The initial screen of DisgeNet shows three options of input: 1) disease 2) genes 3) variants
 We choose the second option: genes to search information about the *ACE2* gene.
@@ -159,7 +159,7 @@ In Harmonizome, the ouput of the search for *ACE2* gene generates a list of asso
 For **Functional Associations**, Harmonizome links up to 30 different resources related to the query gene.
 
 
-## Step 3: searching of *ACE2* Gene expression
+## Step 3- searching of *ACE2* Gene expression
 
 To evaluate the gene expression of *ACE2* gene, we choose two databases: ESCAPE and GTEx portal.
 In ESCAPE, we have the options RNAi screens, protein lists from IP-MS pull-downs, genes differentially expressed after knock-down or over-expression, and target genes for transcription factors and histone modifications as determined by ChIP-seq. The input can be gene-lists for overlap with gene lists from the ESCAPE database. On the left, users can cut and paste lists of Entrez gene symbols and then press Submit to perform the enrichment analysis. In the middle, most of the lists from the ESCAPE database are visualized on a canvas. Each square represents a list. The color indicates the experiment type, and the brightness indicates the level of local similarity among the lists. The enriched terms appear as circles on top of the colored squares representing the gene lists from the ESCAPE database on the canvas: the brighter the circle the more significant the overlap with the input list. The results are also available in a table with the associated p-values on the right (Figure 2).
@@ -205,7 +205,7 @@ We also visualize the Exon Expression of *ACE2*:
 In the **Expression** - Multi-Gene Query - the input as a gene list, we chose compare the expression of the *ACE* and *ACE2* genes:
 <img src= "./images/gtex-multiquerygene.PNG"> 
 
-## Step 4: searching in Cancer databases
+## Step 4- searching in Cancer databases
 
 To evaluate the expression pattern of *ACE2* in cancer cell lines, we used CCLE - Cancer Cell Line Encyclopedia. The aims of the database were to characterize of a large panel of human cancer models, to develop integrated computational analyses that link distinct pharmacologic vulnerabilities to genomic patterns and to translate cell line integrative genomics integrative genomics into cancer patient stratification.
 When search by *ACE2*, the database screen show the Entrez ID (59272), the description (angiotensin I converting enzyme 2), and several external Links. Below, the interactive plot shows the distribution by lineage (RNA-seq expression) and the option to download the data (figure 5)       
@@ -225,7 +225,7 @@ In the exploration menu, we select "TCGA-LUAD" (LUNG ADENOMAS AND ADENOCARCINOMA
 <img src= "./images/tcga-survival.PNG">
 <img src= "./images/tcga-luad-oncogrid.PNG">
 
-## Step 5: Comparative databases
+## Step 5- Comparative databases
 
 We used TISSUES database to compare the *ACE2* gene expression across human and animal model data (figure8).
 <img src= "./images/TISSUES-MOUSE.PNG">
@@ -244,7 +244,7 @@ Note: the quality of the image generated is unclear.
 
 <img src= "./images/data.png">
 
-# Step 6: Alternative splicing databases
+# Step 6- Alternative splicing databases
 
 Here we explore the alternative forms of *ACE2*, first we search in ASPic DB. The gene results can be downloaded and the following output was shown: 
 <img src= "./images/aspic-1.PNG">
@@ -323,7 +323,7 @@ The results are divided into: Donor splice sites, direct strand, Donor splice si
 
 Note: the output - and graphical output was not explained. For more information about the output results, the user can read in the output format page <http://www.cbs.dtu.dk/services/NetGene2/output.php>
 
-## Step 7: methylation databases
+## Step 7- methylation databases
 To analyze the methylation pattern of *ACE2* gene, we select BECon: A tool for interpreting DNA methylation findings from blood in the context of brain, and DiseaseMeth version 2.0 - The human disease methylation database.
 
 The aim of BECon (Blood-Brain Epigenetic Concordance) is to allow for improved interpretation of surrogate methylation results by looking at the relationship human blood and brain methylation.
@@ -353,7 +353,7 @@ Survival analysis: at this moment, the survival analysis was fail
 <img src= "./images/dishmethsurvival.PNG">
 <img src= "./images/deuruim.PNG">
 
-## Step 8: Regulatory Databases
+## Step 8- Regulatory Databases
 Here we used the Interferome db and TTSMI (Triplex Target DNA Site Mapping and Integration).
 The Interferome db - users guide has the link broken (PDF not found). The parameters are: 
 * Interferon Type: (ALL) subtype: (ALL)
@@ -385,7 +385,7 @@ Search by *ACE2* with all default parameters, the website was not return any res
 <img src= "./images/ttsmi.PNG">
 
 
-## Step 9: miRNA, lncRNA and circRNA Databases
+## Step 9- miRNA, lncRNA and circRNA Databases
 
 We used one miRNA database, one lncRNA and circRNA database and one viral miRNA database in order to improve our results.
 
@@ -420,7 +420,7 @@ For each putative or known miRNA, user may query the target sites in the 3'UTR r
 In our case, the result send by e-mail was empty, which means there's no matching sequence returned from RNAhybrid.
 When operating RNAhybrid, the pipeline first calculates the optimal free energy of miRNA at which it binds to a perfectly complementary site, then the miRNA/mRNA duplex mfe (minimum free energy). An alignment whose RNA duplex mfe is more than the selected percentage of its correspondent optimal free energy is regarded as a positive alignment. The alignment result will be sent to the users via their e-mail addresses.
 
-## Step 10: Metabolic databases
+## Step 10- Metabolic databases
 
 CIDeR is a manually curated database of interactions between disease-related elements such as biomolecules (proteins, metabolites etc.) and other factors (biological processes, phenotypes etc.). The aim of CIDeR is to serve as knowledge base for experimentally-oriented scientists and as resource for bioinformatics applications.
 * Per default the search space includes all diseases and all types of data. Queries are not case-sensitive and search all database content that includes the query term (e.g. Mito is sufficient to find everything concerning mitochondria). This type of query is highly unspecific as it includes also information such as gene/protein name synonyms and authors names from referenced literature.
@@ -455,7 +455,7 @@ The result can also visualize into SMPDB (The Small Molecule Pathway Database) i
 
 <img src= "./images/PW000563.png">
 
-## Step 11: Disease-specific and variant-disease association:
+## Step 11- Disease-specific and variant-disease association:
 
 First we search informations about *ACE2* in Varsome - (for more informations, visit the documentation <https://docs.varsome.com/introduction>). 
 
@@ -496,7 +496,7 @@ Additionally, the database provides information about expression of Ortholog Gen
 
 The two used variant-disease databases are complementary and user-friendly.
 
-## Step 12: Proteome databases
+## Step 12- Proteome databases
 
 
 
@@ -506,7 +506,7 @@ The two used variant-disease databases are complementary and user-friendly.
 
 
 
-## Step 13: Other databases
+## Step 13- Other databases
 
 
 
