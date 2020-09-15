@@ -2,8 +2,7 @@
 
 
 
-
-  ## Table of contents
+## Table of contents
   
 
   * [Introduction](#Introduction)
