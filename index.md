@@ -3,9 +3,9 @@
 
 ### **Table of contents**
 
-🔹 [Introduction] (#Introduction)
-🔹 [Databases used in this Case Study] (#Databases used in this Case Study)
-🔹 [Step 1: Discovering the *ACE2* gene] (#Step 1: Discovering the *ACE2* gene)
+  🔹 [Introduction] (#Introduction)
+  🔹 [Databases used in this Case Study] (#Databases used in this Case Study)
+  🔹 [Step 1: Discovering the *ACE2* gene] (#Step 1: Discovering the *ACE2* gene)
 
 
 
