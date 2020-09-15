@@ -13,7 +13,7 @@
 
 :small_blue_diamond: [Step 2: searching in Genomic and sequence databases](#Step-2-searching-in-Genomic-and-sequence-databases)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+:small_blue_diamond: [Step 3: searching of ACE2 Gene expression](#Step-3-searching-of-ACE2-Gene-expression)
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
