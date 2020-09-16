@@ -12,6 +12,6 @@ Trade the colletion into RNA seq Atlas data, we found several tissues with *ACE2
 
 <img src= "./images/SEMANTIC-BODY-2.PNG">
 
-Switch the human to mouse, no information about Lung *ACE2* expression was found.
+Switch the human to mouse, no information about Lung *ACE2* expression was found. To compare the human female and male *ACE2* expression, we selected a human male body:
 
-<img src= "./images/SEMANTIC-BODY-2.PNG">
+<img src= "./images/semantic-3.PNG">
