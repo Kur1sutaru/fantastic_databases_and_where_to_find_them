@@ -4,33 +4,33 @@
 
 ## Table of contents
  
-[Step 1](./page.md)
+* [Step 1](./page.md)
 
-[Step 2 Genomic and sequence databases](./page2.md)
+* [Step 2 Genomic and sequence databases](./page2.md)
 
-[Step 3 searching of ACE2 Gene expression](./page3.md)
+* [Step 3 searching of ACE2 Gene expression](./page3.md)
 
-[Step 4 searching in Cancer databases](./page4.md)
+* [Step 4 searching in Cancer databases](./page4.md)
 
-[Step 5 Comparative databases](./page5.md)
+* [Step 5 Comparative databases](./page5.md)
 
-[Step 6 Alternative splicing databases](./page6.md)
+* [Step 6 Alternative splicing databases](./page6.md)
 
-[Step 7 Methylation databases](./page7.md)
+* [Step 7 Methylation databases](./page7.md)
 
-[Step 8 Regulatory Databases](./page8.md)
+* [Step 8 Regulatory Databases](./page8.md)
 
-[Step 9 miRNA, lncRNA and circRNA Databases](./page9.md)
+* [Step 9 miRNA, lncRNA and circRNA Databases](./page9.md)
 
-[Step 10 Metabolic databases](./page10.md)
+* [Step 10 Metabolic databases](./page10.md)
 
-[Step 11 Disease-specific and variant-disease association](./page11.md)
+* [Step 11 Disease-specific and variant-disease association](./page11.md)
 
-[Step 12 Proteome databases](./page12.md)
+* [Step 12 Proteome databases](./page12.md)
 
-[Step 13 Other databases](./page13.md)
+* [Step 13 Other databases](./page13.md)
 
-[Complete list of databases](./page14.md)
+* [Complete list of databases](./page14.md)
 
 
 ## Introduction
