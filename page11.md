@@ -38,3 +38,5 @@ Additionally, the database provides information about expression of Ortholog Gen
 <img src= "./images/marvell5.PNG">
 
 The two used variant-disease databases are complementary and user-friendly.
+
+[Previous - Step 10](./page10.md) [Next - Step 12](./page12.md)
