@@ -32,3 +32,6 @@ For this reason, we used other metabolic database, The Human Metabolome Database
 The result can also visualize into SMPDB (The Small Molecule Pathway Database) is an interactive, visual database containing more than 30 000 small molecule pathways found in humans only.
 
 <img src= "./images/PW000563.png">
+
+
+[Next - Step 9](./page9.md) [Next - Step 11](./page11.md)
