@@ -67,7 +67,7 @@ Progenetix   |<https://www.progenetix.org/>                                     
 S-MED        |<https://www.oncomir.umn.edu/SMED/basic_search.php>                            |
 SelTarbase   |<http://www.seltarbase.org/>                                                   |
 TANTIGEN     |<http://projects.met-hilab.org/tadb/>                                          | 
-TCGA Portal  |<https://www.cancer.gov/>                                                      |
+TCGA Portal  |<https://portal.gdc.cancer.gov/>                                                      |
 TCRex        |<https://tcrex.biodatamining.be/instructions/>                                 |
 UMDTP53db    |<http://www.umd.be:2072/>                                                      |
 
