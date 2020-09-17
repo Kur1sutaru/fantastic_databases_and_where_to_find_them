@@ -48,4 +48,4 @@ Black: No reasonable evidence for RNA expression from this gene is available
 For the *ACE2*, Protein Expression was Strong evidence for expression at the protein level; no evidence for post-translational modification is available in the database, and strong evidence for expression of a RNA transcript specifically from this gene.
 
 
-[Next - Step 11](./page11.md) [Next - Step 13](./page13.md)
+[Previous - Step 11](./page11.md) [Next - Step 13](./page13.md)
