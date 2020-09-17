@@ -32,3 +32,6 @@ Target prediction with RNAhybrid
 For each putative or known miRNA, user may query the target sites in the 3'UTR regions of genes of human, mouse, rat, zebrafish, rice or Arabidopsis. From the human.rna.fna file downloaded from NCBI, we fetched the sequences of human 3'UTRs based on the CDS (coding sequence) positions acquired from the human.rna.gbff file. We adopted the same strategy for the mouse, rat, zebrafish, rice and Arabidopsis 3'UTRs.
 In our case, the result send by e-mail was empty, which means there's no matching sequence returned from RNAhybrid.
 When operating RNAhybrid, the pipeline first calculates the optimal free energy of miRNA at which it binds to a perfectly complementary site, then the miRNA/mRNA duplex mfe (minimum free energy). An alignment whose RNA duplex mfe is more than the selected percentage of its correspondent optimal free energy is regarded as a positive alignment. The alignment result will be sent to the users via their e-mail addresses.
+
+
+[Previous - Step 8](./page8.md) [Next - Step 10](./page10.md)
