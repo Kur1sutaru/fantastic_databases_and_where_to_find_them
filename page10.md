@@ -34,4 +34,4 @@ The result can also visualize into SMPDB (The Small Molecule Pathway Database) i
 <img src= "./images/PW000563.png">
 
 
-[Next - Step 9](./page9.md) [Next - Step 11](./page11.md)
+[Previous - Step 9](./page9.md) [Next - Step 11](./page11.md)
