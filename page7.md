@@ -27,3 +27,7 @@ Disease gene association:
 Survival analysis: at this moment, the survival analysis was fail
 <img src= "./images/dishmethsurvival.PNG">
 <img src= "./images/deuruim.PNG">
+
+**Note** - the error is also for the survival analysis module.
+
+[Previous - Step 6](./page6.md) [Next - Step 8](./page8.md)
