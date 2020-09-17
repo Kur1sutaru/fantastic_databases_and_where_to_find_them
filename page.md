@@ -24,3 +24,6 @@ Using GeneCards <https://www.genecards.org/>, we found several topics about the 
 * Expression for *ACE2* Gene
 * Orthologs, Paralogs, Disorders and Variants for *ACE2* Gene
 * Publications, Products and Sources.
+
+
+[Next - Step2](./page2.md)
