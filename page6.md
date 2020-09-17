@@ -76,3 +76,6 @@ The results are divided into: Donor splice sites, direct strand, Donor splice si
 <img src= "./images/netgenee.PNG">
 
 Note: the output - and graphical output was not explained. For more information about the output results, the user can read in the output format page <http://www.cbs.dtu.dk/services/NetGene2/output.php>
+
+
+[Previous - Step 5](./page5.md) [Next - Step 7](./page7.md)
