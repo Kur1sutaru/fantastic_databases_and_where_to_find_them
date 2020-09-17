@@ -27,3 +27,6 @@ In Harmonizome, the ouput of the search for *ACE2* gene generates a list of asso
 <img src= "./images/tissueexpression.png">
 
 For **Functional Associations**, Harmonizome links up to 30 different resources related to the query gene.
+
+
+  [Previous - Step1](./page.md) [Next - Step3](./page3.md)
