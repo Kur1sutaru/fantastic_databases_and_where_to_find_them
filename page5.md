@@ -16,3 +16,5 @@ We use these gene list with input into TopCluster web server <https://toppcluste
 Note: the quality of the image generated is unclear.
 
 <img src= "./images/data.png">
+
+[Previous - Step 4](./page4.md) [Next - Step 6](./page6.md)
