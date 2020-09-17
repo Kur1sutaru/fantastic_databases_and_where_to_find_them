@@ -43,3 +43,5 @@ We also visualize the Exon Expression of *ACE2*:
 
 In the **Expression** - Multi-Gene Query - the input as a gene list, we chose compare the expression of the *ACE* and *ACE2* genes:
 <img src= "./images/gtex-multiquerygene.PNG"> 
+
+[Previous - Step2](./page2.md) [Next - Step4](./page4.md)
