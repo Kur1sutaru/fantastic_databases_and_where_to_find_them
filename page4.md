@@ -17,3 +17,5 @@ In the exploration menu, we select "TCGA-LUAD" (LUNG ADENOMAS AND ADENOCARCINOMA
 <img src= "./images/tcga-survivalace2.PNG">
 <img src= "./images/tcga-survival.PNG">
 <img src= "./images/tcga-luad-oncogrid.PNG">
+
+[Previous - Step3](./page3.md) [Next - Step5](./page5.md)
