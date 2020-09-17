@@ -46,7 +46,7 @@ Alternative splicing:
 
 Cancer databases:
 * CCLE - <https://portals.broadinstitute.org/ccle>
-* TCGA data Portal - <https://www.cancer.gov/>
+* TCGA data Portal - <https://portal.gdc.cancer.gov/>
 
 Comparative databases:
 * TISSUES - <https://tissues.jensenlab.org/Search>
