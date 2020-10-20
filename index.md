@@ -4,7 +4,7 @@
 
 ## Table of contents
  
-* [Step 1 Discovering the ACE2 gene](./page.md)
+* [Step 1 searching basic information on ACE2](./page.md)
 
 * [Step 2 Genomic and sequence databases](./page2.md)
 
