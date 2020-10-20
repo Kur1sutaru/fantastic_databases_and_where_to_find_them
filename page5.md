@@ -17,4 +17,4 @@ Note: the quality of the image generated is unclear.
 
 <img src= "./images/data.png">
 
-[Previous - Step 4](./page4.md) [Next - Step 6](./page6.md)
+[INTRODUCTION](./index.md) [Previous - Step 4](./page4.md) [Next - Step 6](./page6.md)
