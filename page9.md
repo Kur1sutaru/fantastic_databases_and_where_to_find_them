@@ -34,4 +34,4 @@ In our case, the result send by e-mail was empty, which means there's no matchin
 When operating RNAhybrid, the pipeline first calculates the optimal free energy of miRNA at which it binds to a perfectly complementary site, then the miRNA/mRNA duplex mfe (minimum free energy). An alignment whose RNA duplex mfe is more than the selected percentage of its correspondent optimal free energy is regarded as a positive alignment. The alignment result will be sent to the users via their e-mail addresses.
 
 
-[Previous - Step 8](./page8.md) [Next - Step 10](./page10.md)
+[INTRODUCTION](./index.md)        [Previous - Step 8](./page8.md)     [Next - Step 10](./page10.md)
