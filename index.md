@@ -34,8 +34,7 @@
 
 
 ## Introduction
-<div style="text-align: justify"> This work is part of the article "Fantastic databases and where to find them." To demonstrate how the tools mentioned above work, we chose a case study on ACE2, the Angiotensin I Converting Enzyme 2, an important enzyme related to  Covid-19 and Severe Acute Respiratory Syndrome.
-To evaluate the top tools provided in our study, we explore ACE2 data with the following databases and tools: </div>
+<div style="text-align: justify"> This website is connected to the article "Fantastic databases and where to find them" (Genetics and Molecular Biology) and shows how the tools covered in the above mentioned manuscript work, using *ACE2* as a case study. *ACE2*, the Angiotensin I Converting Enzyme 2 has been shown to modulate SARS-Cov2 infection. In this example, we show how to use the top tools provided in our study to explore *ACE2* information. </div>
 
 
 ## Databases used in this Case Study
