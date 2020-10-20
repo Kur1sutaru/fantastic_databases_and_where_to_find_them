@@ -1,11 +1,13 @@
 ## Step 3 searching of ACE2 Gene expression
 
-To evaluate the gene expression of *ACE2* gene, we choose two databases: ESCAPE and GTEx portal.
-In ESCAPE, we have the options RNAi screens, protein lists from IP-MS pull-downs, genes differentially expressed after knock-down or over-expression, and target genes for transcription factors and histone modifications as determined by ChIP-seq. The input can be gene-lists for overlap with gene lists from the ESCAPE database. On the left, users can cut and paste lists of Entrez gene symbols and then press Submit to perform the enrichment analysis. In the middle, most of the lists from the ESCAPE database are visualized on a canvas. Each square represents a list. The color indicates the experiment type, and the brightness indicates the level of local similarity among the lists. The enriched terms appear as circles on top of the colored squares representing the gene lists from the ESCAPE database on the canvas: the brighter the circle the more significant the overlap with the input list. The results are also available in a table with the associated p-values on the right.
+To evaluate the gene expression of the ACE2 gene, we chose two databases: ESCAPE and the GTEx portal. In ESCAPE, there are the options: RNAi screens, protein lists, differentially expressed genes after knock-down or over-expression experiments, and target genes for transcription factors and histone modifications determined by ChIP-seq. The input can be  a list of genes for overlap with gene lists from the ESCAPE database. Users can input lists with Entrez gene symbols and submit to start the enrichment analysis. 
 
 <img src= "./images/escape-output.PNG"> 
 
-Additionally, in the bottom of gene list, we found the EnrichR option, which provide gene terms related to Transcription, Pathways, Ontologies, Disease/Drugs, Cell types, and other resources. Figure 3 exemplifies a Pathway result of the gene input generated in ESCAPE:
+Lists from the ESCAPE database are visualized as shown below. On the left there is the input list. On the right are the enrichment results and p-value. The figure in the middle represents the experiments leading to the results in a color coded manner. The circles indicate the presence of input genes and brightness indicates local similarity among the lists.
+
+Additionally, at the bottom of the gene list, we found the EnrichR option, which provides gene terms related to Transcription Factors, Pathways, Ontologies, Disease/Drugs, Cell types, and other resources. Figure 3 exemplifies the result from EnrichR to the gene input generated in ESCAPE.
+
 
 <img src= "./images/escape-enrichr.PNG"> 
 
