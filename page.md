@@ -26,5 +26,5 @@ Using GeneCards <https://www.genecards.org/>, we found several topics about the 
 * Publications, Products and Sources.
 
 
-[Next - Step2](./page2.md)
+[INTRODUCTION](./index.md)  [Next - Step2](./page2.md)
 
