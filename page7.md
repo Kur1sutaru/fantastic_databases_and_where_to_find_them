@@ -30,4 +30,6 @@ Survival analysis: at this moment, the survival analysis was fail
 
 **Note** - the error is also for the survival analysis module.
 
-[Previous - Step 6](./page6.md) [Next - Step 8](./page8.md)
+[INTRODUCTION](./index.md)
+[Previous - Step 6](./page6.md) 
+[Next - Step 8](./page8.md)
