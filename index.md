@@ -41,7 +41,7 @@ This website is connected to the article "Fantastic databases and where to find 
 
 Alternative splicing:
 * ASPicDB - <http://srv00.recas.ba.infn.it/ASPicDB/>
-* NetGene2 - <http://www.cbs.dtu.dk/services/NetGene2/>
+* HSF - <http://umd.be/Redirect.html>
 
 Cancer databases:
 * CCLE - <https://portals.broadinstitute.org/ccle>
