@@ -41,4 +41,4 @@ Click on the column title to sort table
 Filtered table can be exported as an TAB-delimited text file.
 
 
-[Previous- Step 12](./page12.md) [Next - Complete list of databases](./page14.md)
+[INTRODUCTION](./index.md)     [Previous- Step 12](./page12.md)    [Next - Complete list of databases](./page14.md)
