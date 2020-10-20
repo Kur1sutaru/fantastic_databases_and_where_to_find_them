@@ -12,7 +12,7 @@ To compare the cell line information with clinical data, we chose the TCGA data 
 <img src= "./images/tcga2.PNG">
 <img src= "./images/tcga3.PNG">
 <img src= "./images/tcga4.PNG">
-In the exploration menu, we select "TCGA-LUAD" (LUNG ADENOMAS AND ADENOCARCINOMAS) and obtain 37 cases, with clinical and survival data, mutations and oncogrid 
+In the exploration menu, we select "TCGA-LUAD" (LUNG ADENOMAS AND ADENOCARCINOMAS) and obtain 37 cases, with clinical and survival data, mutations and oncogrid. The pins represents the mutations across the *ACE2* gene.
 <img src= "./images/tcga-survivalace2.PNG">
 <img src= "./images/tcga-survival.PNG">
 <img src= "./images/tcga-luad-oncogrid.PNG">
