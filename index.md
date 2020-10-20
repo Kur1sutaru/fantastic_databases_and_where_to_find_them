@@ -34,7 +34,7 @@
 
 
 ## Introduction
-<div style="text-align: justify"> This website is connected to the article "Fantastic databases and where to find them" (Genetics and Molecular Biology) and shows how the tools covered in the above mentioned manuscript work, using *ACE2* as a case study. *ACE2*, the Angiotensin I Converting Enzyme 2 has been shown to modulate SARS-Cov2 infection. In this example, we show how to use the top tools provided in our study to explore *ACE2* information. </div>
+This website is connected to the article "Fantastic databases and where to find them" (Genetics and Molecular Biology) and shows how the tools covered in the above mentioned manuscript work, using *ACE2* as a case study. *ACE2*, the Angiotensin I Converting Enzyme 2 has been shown to modulate SARS-Cov2 infection. In this example, we show how to use the top tools provided in our study to explore *ACE2* information.
 
 
 ## Databases used in this Case Study
