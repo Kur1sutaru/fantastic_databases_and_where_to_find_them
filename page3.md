@@ -1,7 +1,7 @@
 ## Step 3 searching of ACE2 Gene expression
 
 To evaluate the gene expression of *ACE2* gene, we choose two databases: ESCAPE and GTEx portal.
-In ESCAPE, we have the options RNAi screens, protein lists from IP-MS pull-downs, genes differentially expressed after knock-down or over-expression, and target genes for transcription factors and histone modifications as determined by ChIP-seq. The input can be gene-lists for overlap with gene lists from the ESCAPE database. On the left, users can cut and paste lists of Entrez gene symbols and then press Submit to perform the enrichment analysis. In the middle, most of the lists from the ESCAPE database are visualized on a canvas. Each square represents a list. The color indicates the experiment type, and the brightness indicates the level of local similarity among the lists. The enriched terms appear as circles on top of the colored squares representing the gene lists from the ESCAPE database on the canvas: the brighter the circle the more significant the overlap with the input list. The results are also available in a table with the associated p-values on the right (Figure 2).
+In ESCAPE, we have the options RNAi screens, protein lists from IP-MS pull-downs, genes differentially expressed after knock-down or over-expression, and target genes for transcription factors and histone modifications as determined by ChIP-seq. The input can be gene-lists for overlap with gene lists from the ESCAPE database. On the left, users can cut and paste lists of Entrez gene symbols and then press Submit to perform the enrichment analysis. In the middle, most of the lists from the ESCAPE database are visualized on a canvas. Each square represents a list. The color indicates the experiment type, and the brightness indicates the level of local similarity among the lists. The enriched terms appear as circles on top of the colored squares representing the gene lists from the ESCAPE database on the canvas: the brighter the circle the more significant the overlap with the input list. The results are also available in a table with the associated p-values on the right.
 
 <img src= "./images/escape-output.PNG"> 
 
@@ -32,7 +32,7 @@ The initial screen show several options for input data:
 * **Biobank**
               Access Biospecimens	Search and request available GTEx biospecimens
 
-In the option "Browse By gene ID", we can visualize the expression of *ACE2* across more than 30 tissues (Figure 4) 
+In the option "Browse By gene ID", we can visualize the expression of *ACE2* across more than 30 tissues
 
 <img src= "./images/gene-exp-plot.svg"> 
 
