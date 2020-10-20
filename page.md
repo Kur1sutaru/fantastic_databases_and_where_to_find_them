@@ -1,4 +1,4 @@
-## Step 1 Discovering the ACE2 gene
+## Step 1 searching basic information on ACE2
 
 First of all, we use OMIM <https://omim.org/> to found more informations abou the *ACE2* gene. 
 
