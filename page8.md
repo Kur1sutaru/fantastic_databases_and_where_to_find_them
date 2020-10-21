@@ -30,7 +30,6 @@ TTSMI (TTS Mapping and Integration) database allows the user to (i) search of th
 
 Search by ACE2 with all default parameters, and the website did not return any results.
 
-<img src= "./images/ttsmi.PNG">
 
 
 [INTRODUCTION](./index.md)[Previous - Step 7](./page7.md) [Next - Step 9](./page9.md)
