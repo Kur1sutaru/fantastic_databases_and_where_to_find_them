@@ -9,7 +9,7 @@ Aspic Results column show the gene information, Gene Structure View, Predicted T
 <img src= "./images/aspic-predicted.PNG">
 
 The second alternative splicing database - TassDB	<http://tassdb2.leibniz-fli.de/>  is a database of alternative splice sites in mouse and human.
-The user can enter a gene symbol (like ACE2) or a transcript ID (NM_001371415.1). The splice site scores are computed with MaxEntScan algorithm.
+The user can enter a gene symbol (like *ACE2*) or a transcript ID (NM_001371415.1). The splice site scores are computed with MaxEntScan algorithm.
 The result of the search consists of two parts: 
 
 <img src= "./images/tasdb.PNG">
@@ -20,6 +20,6 @@ The result of the search consists of two parts:
 In the image above, the red sequence is the tandem splice site as well as its exonic or intron flank is shown. Lower case letters represent intronic nucleotides, upper case letters are the exonic nucleotides.
 
 These detailed result tables also provide links to the ESTs/mRNAs for both splice forms as well as links to the UCSC genome browser. 
-Result details can be downloaded in csv table format (text, tab separated).
+Results details can be downloaded in csv table format (text, tab separated).
  
 [INTRODUCTION](./index.md)  [Previous - Step 5](./page5.md) [Next - Step 7](./page7.md)
