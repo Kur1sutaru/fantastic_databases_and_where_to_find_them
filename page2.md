@@ -26,6 +26,8 @@ In Harmonizome, the ouput of the search for *ACE2* gene generates a list of asso
 
 <img src= "./images/tissueexpression.png">
 
+The organ- and cell-specific expression of *ACE2* gene suggests that it may play a role in the regulation of cardiovascular and renal function, as well as fertility. In addition, the encoded protein is a functional receptor for the spike glycoprotein of the human coronaviruses SARS and HCoV-NL63.
+
 For **Functional Associations**, Harmonizome links up to 30 different resources related to the query gene.
 
 
