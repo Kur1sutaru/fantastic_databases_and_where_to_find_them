@@ -37,6 +37,6 @@ Additionally, the database provides information about expression of Ortholog Gen
 <img src= "./images/marvell4.PNG">
 <img src= "./images/marvell5.PNG">
 
-The two used variant-disease databases are complementary and user-friendly.
+The two used variant-disease databases are complementary and user-friendly. With the databases presented we, the user can explore the human *ACE2* variations across different populations and studies.
 
 [INTRODUCTION](./index.md)    [Previous - Step 10](./page10.md)     [Next - Step 12](./page12.md)
