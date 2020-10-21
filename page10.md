@@ -13,25 +13,22 @@ The result of *ACE2* input are bellow:
 
 <img src= "./images/CIDER.PNG">
 
-Note: the output only returns diabetes data.
+Note: the output only returns diabetes data. The colors are listed in the legend in the right.
 
-In other hand, HumanMine integrates many types of data for Homo sapiens and Mus musculus. You can run flexible queries, export results and analyse lists of data.
-This page lists the data that are included in the current release <https://www.humanmine.org/humanmine/dataCategories.do>. The user can enter names, identifiers or keywords for genes, proteins, pathways, ontology terms, authors, etc. (e.g. eve, PPARG_HUMAN, glycolysis, ACTN2).
+On the other hand, HumanMine integrates many types of data for Homo sapiens and Mus musculus. You can run flexible queries, export results and analyze lists of data. This page lists the data that is included in the current release https://www.humanmine.org/humanmine/dataCategories.do. The user can enter names, identifiers, or keywords for genes, proteins, pathways, ontology terms, authors, etc. (e.g., eve, PPARG_HUMAN, glycolysis, ACTN2).
+The first output for ACE2 was a gene summary, and the user can navigate into several topics: Summary, Function, Genomics, Proteins, SNPs, Disease, Homology, Interactions, Expression, Gene Ontology, Other. However, we got the following error message: “There has been an internal error while processing your request. The problem has been logged and will be investigated. You may also send us an email describing how you encountered this error. The problem may be temporary, in which case you might wish to go back and try your request again, or you might want to go to the home page.”
 
-The first ouput for *ACE2* was a gene summary, and the user can navigate into several topics: Summary, Function, Genomics, Proteins, SNPs, Disease, Homology, Interactions, Expression, Gene Ontology, Other.
+For this reason, we used another metabolic database, The Human Metabolome Database (HMDB). The database contains information about small molecule metabolites found in the human body. It is intended to be used for applications in metabolomics, clinical chemistry, biomarker discovery and general education. The database is designed to contain or link three kinds of data: 1) chemical data, 2) clinical data, and 3) molecular biology/biochemistry data. The database contains 114,221 metabolite entries, including both water-soluble and lipid-soluble metabolites as well as metabolites that would be regarded as either abundant (> 1 uM) or relatively rare (< 1 nM). Additionally, 5,702 protein sequences are linked to these metabolite entries. Each MetaboCard entry contains 130 data fields with 2/3 of the information being devoted to chemical/clinical data and the other 1/3 devoted to enzymatic or biochemical data. Many data fields are hyperlinked to other databases (KEGG, PubChem, MetaCyc, ChEBI, PDB, UniProt, and GenBank) and a variety of structure and pathway viewing applets. The HMDB database supports extensive text, sequence, chemical structure, and relational query searches.
+The result can also be visualized into SMPDB (The Small Molecule Pathway Database) that is an interactive, visual database containing more than 30 000 small molecule pathways found in humans only.
 
-The search return the following error:
----------------------------------
-There has been an internal error while processing your request. The problem has been logged and will be investigated. You may also send us an email describing how you encountered this error.
-The problem may be temporary in which case you might wish to go back and try your request again or you might want to go to the home page.
-
-For this reason, we used other metabolic database, The Human Metabolome Database. The Human Metabolome Database (HMDB) is a freely available electronic database containing detailed information about small molecule metabolites found in the human body. It is intended to be used for applications in metabolomics, clinical chemistry, biomarker discovery and general education. The database is designed to contain or link three kinds of data: 1) chemical data, 2) clinical data, and 3) molecular biology/biochemistry data. The database contains 114,221 metabolite entries including both water-soluble and lipid soluble metabolites as well as metabolites that would be regarded as either abundant (> 1 uM) or relatively rare (< 1 nM). Additionally, 5,702 protein sequences are linked to these metabolite entries. Each MetaboCard entry contains 130 data fields with 2/3 of the information being devoted to chemical/clinical data and the other 1/3 devoted to enzymatic or biochemical data. Many data fields are hyperlinked to other databases (KEGG, PubChem, MetaCyc, ChEBI, PDB, UniProt, and GenBank) and a variety of structure and pathway viewing applets. The HMDB database supports extensive text, sequence, chemical structure and relational query searches. 
 
 <img src= "./images/hmdb.PNG">
 
 The result can also visualize into SMPDB (The Small Molecule Pathway Database) is an interactive, visual database containing more than 30 000 small molecule pathways found in humans only.
 
 <img src= "./images/PW000563.png">
+
+The interactive result was shown in the following adress: <https://smpdb.ca/view/SMP0000587>
 
 
 [INTRODUCTION](./index.md)    [Previous - Step 9](./page9.md)    [Next - Step 11](./page11.md)
