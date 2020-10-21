@@ -38,6 +38,8 @@ In the option "Browse By gene ID", we can visualize the expression of *ACE2* acr
 
 <img src= "./images/gene-exp-plot.svg"> 
 
+The expression of *ACE2* gene was enriched in several gastric tissues, in testis and heart, suggesting a important role in the regulation of cardiovascular and gastrointestinal function, as well as in the fertility.
+
 We also visualize the Exon Expression of *ACE2*:
 
 <img src= "./images/gtex-exon-expression.PNG"> 
