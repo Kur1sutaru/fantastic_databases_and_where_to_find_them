@@ -4,13 +4,13 @@
 
 ## Table of contents
  
-* [Step 1 searching basic information on ACE2](./page.md)
+* [Step 1 Searching basic information on *ACE2*](./page.md)
 
 * [Step 2 Genomic and sequence databases](./page2.md)
 
-* [Step 3 searching of ACE2 Gene expression](./page3.md)
+* [Step 3 Searching of *ACE2* Gene expression](./page3.md)
 
-* [Step 4 searching in Cancer databases](./page4.md)
+* [Step 4 Searching in Cancer databases](./page4.md)
 
 * [Step 5 Comparative databases](./page5.md)
 
