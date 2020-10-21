@@ -13,16 +13,17 @@ We search by protein sequence of *ACE2* with the Maximal E-value to filter BLAST
 Note: We search the .FASTA sequence in Uniprot, with the curated annotation <https://covid-19.uniprot.org/uniprotkb/Q9BYF1>
 
 **Results page for protein target**
-This page provides information concerning the known and putative protein-drug interactions for the selected protein target. This includes links to the corresponding protein sequence and structure files, visualization of the protein structure in complex with drugs that are known and that are predicted to bind the selected proteins, and tabulated detailed information concerning the known and putative protein-drug interactions. 
+This page provides information concerning the known and putative protein-drug interactions for the selected protein target. This includes links to the corresponding protein sequence and structure files, visualization of the protein structure in complex with drugs that are known and that are predicted to bind the selected proteins, and tabulated detailed information concerning the known and putative protein-drug interactions.
 
 <img src= "./images/pdid-1.PNG">
 <img src= "./images/pdid02.PNG">
 
 The drugs in the table are sorted by the likelihood that they interact with the selected proteins, starting with the drugs that are known to interact and following with the drugs predicted to interact, from higher to lower likelihood of interaction. Only the drugs that are known to interact or are predicted by at least one method to interact are included.
 
+
 <img src= "./images/pdid3.PNG">
 
-For other hand, The Proteome Browser (TPB) brings together data and information about human proteins from a number of sources and presents them in a gene- and chromosome-centric, interactive format. Member of the Human Proteome Organisation's (HUPO) Chromosome-centric Human Proteome Project (C-HPP), this resource is currently in phase 2 of development; hence several aspects are still in a draft version to demonstrate its potential and functionality. To view the interactive prototype report, select a chromosome from the drop down menu in the top right corner or below.
+Furthermore, The Proteome Browser (TPB) brings together data and information about human proteins from a number of sources and presents them in a gene- and chromosome-centric, interactive format. Member of the Human Proteome Organisation’s (HUPO) Chromosome-centric Human Proteome Project (C-HPP), this resource is currently in phase 2 of development; hence several aspects are still in a draft version to demonstrate its potential and functionality. To view the interactive prototype report, select a chromosome from the drop-down menu in the top right corner or below.
 For our analysis, we select the Chromosome X and search by the *ACE2* gene.
 
 <img src= "./images/thpb-1.PNG">
@@ -46,6 +47,8 @@ Red: Poor or inconsistent evidence for RNA transcript expression from this gene
 Black: No reasonable evidence for RNA expression from this gene is available
 
 For the *ACE2*, Protein Expression was Strong evidence for expression at the protein level; no evidence for post-translational modification is available in the database, and strong evidence for expression of a RNA transcript specifically from this gene.
+
+For users who are exploring proteins whose function is still not well established, this database can be interesting.
 
 
 [INTRODUCTION](./index.md)      [Previous - Step 11](./page11.md)     [Next - Step 13](./page13.md)
