@@ -13,7 +13,7 @@ Additionally, at the bottom of the gene list, we found the EnrichR option, which
 
 The Genotype-Tissue Expression (GTEx) project is an ongoing effort to build a comprehensive public resource to study tissue-specific gene expression and regulation. Samples were collected from 54 non-diseased tissue sites across nearly 1000 individuals, primarily for molecular assays including WGS, WES, and RNA-Seq. Remaining samples are available from the GTEx Biobank. The GTEx Portal provides open access to data including gene expression, QTLs, and histology images.
 
-The initial screen show several options for input data:
+The initial screen shows several options for input data:
 * **Browse**  By gene ID - Browse and search all data by gene
               By variant or rs ID - Browse and search all data by variant
               
@@ -34,7 +34,7 @@ The initial screen show several options for input data:
 * **Biobank**
               Access Biospecimens	Search and request available GTEx biospecimens
 
-In the option "Browse By gene ID", we can visualize the expression of *ACE2* across more than 30 tissues
+In the option "Browse By gene ID", we can visualize the expression of *ACE2* across more than 30 tissues.
 
 <img src= "./images/gene-exp-plot.svg"> 
 
@@ -45,7 +45,7 @@ We also visualize the Exon Expression of *ACE2*:
 <img src= "./images/gtex-exon-expression.PNG"> 
 <img src= "./images/gtex-gene-model-exon.PNG"> 
 
-In the **Expression** - Multi-Gene Query - the input as a gene list, we chose compare the expression of the *ACE* and *ACE2* genes:
+In the **Expression** - Multi-Gene Query - the input is a gene list, we chose compare the expression of the *ACE* and *ACE2* genes:
 <img src= "./images/gtex-multiquerygene.PNG"> 
 
 [INTRODUCTION](./index.md)        [Previous - Step2](./page2.md)             [Next - Step4](./page4.md)
