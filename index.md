@@ -41,7 +41,7 @@ This website is connected to the article "Fantastic databases and where to find 
 
 Alternative splicing:
 * ASPicDB - <http://srv00.recas.ba.infn.it/ASPicDB/>
-* HSF - <http://umd.be/Redirect.html>
+* TassDB2 - <http://tassdb2.leibniz-fli.de/>
 
 Cancer databases:
 * CCLE - <https://portals.broadinstitute.org/ccle>
