@@ -1,7 +1,8 @@
 ## Step 4 searching in Cancer databases
 
-To evaluate the expression pattern of *ACE2* in cancer cell lines, we used CCLE - Cancer Cell Line Encyclopedia. The aims of the database were to characterize of a large panel of human cancer models, to develop integrated computational analyses that link distinct pharmacologic vulnerabilities to genomic patterns and to translate cell line integrative genomics integrative genomics into cancer patient stratification.
-When search by *ACE2*, the database screen show the Entrez ID (59272), the description (angiotensin I converting enzyme 2), and several external Links. Below, the interactive plot shows the distribution by lineage (RNA-seq expression) and the option to download the data    
+To evaluate the expression pattern of *ACE2* in cancer cell lines, we used CCLE - Cancer Cell Line Encyclopedia. The aims of the database are to characterize a large panel of human cancer models, to develop integrated computational analyses that link distinct pharmacologic vulnerabilities to genomic patterns and to translate cell line integrative genomics into cancer patient stratification.
+When search by *ACE2*, the database screen shows the Entrez ID (59272), the description (angiotensin I converting enzyme 2), and several external links. Below, the interactive plot shows the distribution by lineage (RNA-seq expression) and the option to download the data.  
+
 <img src= "./images/ccle.PNG">
 
 Other options are: scatter plots of the query gene, with the option to compare with other differentially expressed genes across the available datasets, mutation data (users with previously login only), fusion and translocation data, and methylation - CpG viewer.
@@ -12,7 +13,9 @@ To compare the cell line information with clinical data, we chose the TCGA data 
 <img src= "./images/tcga2.PNG">
 <img src= "./images/tcga3.PNG">
 <img src= "./images/tcga4.PNG">
+
 In the exploration menu, we select "TCGA-LUAD" (LUNG ADENOMAS AND ADENOCARCINOMAS) and obtain 37 cases, with clinical and survival data, mutations and oncogrid. The pins represents the mutations across the *ACE2* gene.
+
 <img src= "./images/tcga-survivalace2.PNG">
 <img src= "./images/tcga-survival.PNG">
 <img src= "./images/tcga-luad-oncogrid.PNG">
