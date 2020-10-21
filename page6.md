@@ -17,6 +17,7 @@ The result of the search consists of two parts:
 * a summary table listing the affected gene(s) and their number of tandem splice sites of each type
 * detailed gene specific tables containing information regarding the individual tandem splice sites. 
 
+In the image above, the red sequence is the tandem splice site as well as its exonic or intron flank is shown. Lower case letters represent intronic nucleotides, upper case letters are the exonic nucleotides.
 
 These detailed result tables also provide links to the ESTs/mRNAs for both splice forms as well as links to the UCSC genome browser. 
 Result details can be downloaded in csv table format (text, tab separated).
