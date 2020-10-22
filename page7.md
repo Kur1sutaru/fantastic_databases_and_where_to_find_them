@@ -4,6 +4,7 @@ To analyze the methylation pattern of the *ACE2* gene, we selected BECon: A tool
 The aim of BECon (Blood-Brain Epigenetic Concordance) is to allow for improved interpretation of surrogate methylation results by looking at the relationship between human blood and brain methylation. Spearman correlation values of methylation between blood and the listed brain region are shown below. In these columns, colors are used to show the percentile of all correlations each value reaches (see legend). Darker grey and orange represent lower or higher correlations, respectively. The cell composition metrics are the difference between betas for unadjusted and adjusted data. So how much the higher the beta values, the higher the amount of methylated CpG.
 
 <img src= "./images/BECON.PNG">
+
 We can observe that the *ACE2* gene shows a similar pattern of CpG context across samples and tissues (in the context of blood and brain).
 
 To access the methylation pattern of *ACE2* in a cancer context, we used DiseaseMeth. The Search Engine has three query possibilities: GeneSearch (queries DNA methylation level for disease-associated genes by disease type), DiseaseSearch (queries DNA methylation level across diseases for a specified gene/genomic position), AdvanceSearch (queries disease methylome or DNA methylation level for a specified gene/genomic position).
