@@ -28,7 +28,7 @@ The location of transcription factors is shown for each of the genes from the re
 
 TTSMI (TTS Mapping and Integration) database allows the user to (i) search of the Triplex Target Site (TTS) using several search terms including genomic location, gene ID, NCBI RefSeq ID, TTS ID, gene symbol, and gene description keywords, (ii) interactive filter of the TTS co-localized with several other gene regulatory sequences, (iii) explore a dynamic combination of structural and functional annotations of specific TTS, and (iv) view of the TTS simultaneously with diverse annotation tracks via UCSC genome browser link. The user can quickly search and filter the TTS candidates from the largest collection of unique TTS locations. In terms of finding therapeutic targets, the specificity of TTS is the most important factor in controlling off-target effects.
 
-Search by ACE2 with all default parameters, and the website did not return any results.
+Search by *ACE2* with all default parameters, and the website did not return any results.
 
 
 
