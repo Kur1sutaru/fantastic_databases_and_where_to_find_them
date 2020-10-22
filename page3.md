@@ -1,6 +1,6 @@
 ## Step 3 Searching of *ACE2* Gene expression
 
-To evaluate the gene expression of the ACE2 gene, we chose two databases: ESCAPE and the GTEx portal. In ESCAPE, there are the options: RNAi screens, protein lists, differentially expressed genes after knock-down or over-expression experiments, and target genes for transcription factors and histone modifications determined by ChIP-seq. The input can be  a list of genes for overlap with gene lists from the ESCAPE database. Users can input lists with Entrez gene symbols and submit to start the enrichment analysis. 
+To evaluate the gene expression of the *ACE2* gene, we chose two databases: ESCAPE and the GTEx portal. In ESCAPE, there are the options: RNAi screens, protein lists, differentially expressed genes after knock-down or over-expression experiments, and target genes for transcription factors and histone modifications determined by ChIP-seq. The input can be  a list of genes for overlap with gene lists from the ESCAPE database. Users can input lists with Entrez gene symbols and submit to start the enrichment analysis. 
 
 <img src= "./images/escape-output.PNG"> 
 
