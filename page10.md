@@ -5,7 +5,7 @@ CIDeR is a manually curated database of interactions between disease-related ele
 * The first box of the search options (Diseases) allows to restrict the search space for the disease/-s of interest.
 * The second box of the search options (Field) allows searching within a specific type of data, e.g. only within genes/proteins, biological processes etc.
 * Combined queries can be performed by using Refine query. By clicking on Refine query a second search field is opened. A drop-down menu allows combining the two queries with the Boolean operators AND, OR and NOT.
-* The search space can be restricted by setting the search term into double quotes (e.g. "MAPK1" will not find MAPK14 which would happen without quotes)
+* The search space can be restricted by setting the search term into double quotes (e.g. "*MAPK1*" will not find *MAPK14* which would happen without quotes)
 * CIDer have information about several diseases, like Alzheimer disease, Amyotrophic lateral sclerosis, Autism, Bipolar disorder, COXPD, Cancer, Cardiovascular diseases
 Diabetes mellitus (type II), Epilepsy, Farber lipogranulomatosis, Inflammatory bowel disease, Lung disease, Major depressive disorder, Multiple sclerosis, Muscular atrophy
 Neutropenia, severe congenital, Other, Parkinson disease, Post-traumatic stress disorder, Postpartum depression, Rare disease, and Schizophrenia.
