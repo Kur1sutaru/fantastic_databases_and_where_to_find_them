@@ -1,4 +1,4 @@
-## Step 9 miRNA, lncRNA and circRNA Databases
+## Step 9 miRNA, lncRNA and circRNA databases
 
 We used one miRNA database, one lncRNA and circRNA database, and one viral miRNA database in order to improve our results.
 The used miRNA database was miRDB, an online database for miRNA target prediction and functional annotations. All the targets in miRDB were predicted by a bioinformatics tool, MirTarget, which was developed by analyzing thousands of miRNA-target interactions from high-throughput sequencing experiments. miRNAs, as well as associated functional annotations, are presented in the FuncMir Collection in miRDB. The user can choose one of the following search options: Search by miRNA name OR Search by gene target. The initial search returns 50 miRNA candidates to bind the *ACE2* gene:
