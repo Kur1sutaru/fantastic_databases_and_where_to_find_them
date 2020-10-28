@@ -8,13 +8,13 @@ We opted for use Semantic Body Browser - a tool for graphically exploring an org
 
 Here we use a human female with an example of search, in the collection "Human Bodymap 2.0". Gene expression was measuring by TPM (Transcripts per Million), when blue was 0.07 and yellow = 6.95. 
 
-Trade the colletion into RNA seq Atlas data, we found several tissues with *ACE2* differentially expressed:
-
-<img src= "./images/SEMANTIC-BODY-2.PNG">
-
 To compare the human female and male *ACE2* expression, we selected a human male body:
 
 <img src= "./images/semantic-3.PNG">
+
+Trade the colletion into RNA seq Atlas data, we found several tissues with *ACE2* differentially expressed:
+
+<img src= "./images/SEMANTIC-BODY-2.PNG">
 
 Switch the human to mouse, no information about Lung *ACE2* expression was found. 
 
