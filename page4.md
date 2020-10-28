@@ -1,4 +1,4 @@
-## Step 4 Searching in Cancer databases
+## Step 4 Searching in cancer databases
 
 To evaluate the expression pattern of *ACE2* in cancer cell lines, we used CCLE - Cancer Cell Line Encyclopedia. The aims of the database are to characterize a large panel of human cancer models, to develop integrated computational analyses that link distinct pharmacologic vulnerabilities to genomic patterns and to translate cell line integrative genomics into cancer patient stratification.
 When search by *ACE2*, the database screen shows the Entrez ID (59272), the description (angiotensin I converting enzyme 2), and several external links. Below, the interactive plot shows the distribution by lineage (RNA-seq expression) and the option to download the data.  
