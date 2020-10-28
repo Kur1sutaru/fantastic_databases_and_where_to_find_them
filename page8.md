@@ -1,4 +1,4 @@
-## Step 8 Regulatory Databases
+## Step 8 Regulatory databases
 Here we used the Interferome db and TTSMI (Triplex Target DNA Site Mapping and Integration).
 The Interferome db - users guide has the link broken (PDF not found). The parameters are: 
 * Interferon Type: (ALL) subtype: (ALL)
