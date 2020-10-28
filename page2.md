@@ -1,4 +1,4 @@
-## Step 2 Searching in Genomic and sequence databases
+## Step 2 Searching in genomic and sequence databases
 To obtain more informations about *ACE2* related diseases, we search informations in DisGenet and Harmonizome.
 The initial screen of DisgeNet shows three options of input: 1) disease 2) genes 3) variants
 We choose the second option: genes to search information about the *ACE2* gene.
