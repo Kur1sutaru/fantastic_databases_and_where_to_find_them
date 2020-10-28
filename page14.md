@@ -1,4 +1,4 @@
-# Complete list of databases:
+# List of databases contained in the article <article doi here>:
 
 # Alternative splicing databases
 
