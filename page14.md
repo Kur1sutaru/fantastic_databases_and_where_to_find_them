@@ -1,6 +1,7 @@
 # List of databases contained in the article <article doi here>:
+# Supplementary tables
 
-# Alternative splicing databases
+# Table S1 - Alternative splicing databases
 
 **Database** |                  **URL**                                      |  
 AltExtron    | <http://bioinformatics.org.au/tools/altExtron/>               |
@@ -24,7 +25,7 @@ SpliceProt   | <http://bioinfoteam.fiocruz.br/spliceprot/index.php>          |
 TassDB       | <http://tassdb2.leibniz-fli.de/>                              |
 
 
-# Cancer databases
+# Table S2 - Cancer databases
 
 **Database** |                  **URL**                                                      |  
 arrayMap     | <https://arraymap.org/>                                                       |
@@ -71,7 +72,7 @@ TCGA Portal  |<https://portal.gdc.cancer.gov/>                                  
 TCRex        |<https://tcrex.biodatamining.be/instructions/>                                 |
 UMDTP53db    |<http://www.umd.be:2072/>                                                      |
 
-# Comparative databases
+# Table S3 - Comparative databases
 
 **Database** |                  **URL**                                                                               |
 EVOG         |<http://neobio.cs.pusan.ac.kr/evog/>                                                                    |
@@ -107,7 +108,7 @@ Vega Browser |<http://vega.archive.ensembl.org/index.html>                      
 VISTA Browser|<https://enhancer.lbl.gov/frnt_page_n.shtml>                                                            |
 
 
-# Disease-specific and variant-disease association
+# Table S4 - Disease-specific and variant-disease association
 
 **Database** |                  **URL**                                                                               |
 GlobinServer |<http://globin.cse.psu.edu>                                                                             |
@@ -175,7 +176,7 @@ UGAHash      |<http://ugahash.uni-frankfurt.de/>                                
 UMD-Predictor|<http://umd-predictor.eu/index.php>                                                                     |
 VarSome      |<https://varsome.com/>                                                                                  |
 
-#  Methylation databases
+#  Table S5 - Methylation databases
 
 **Database** |                  **URL**                                                                               |
 ANCOGeneDB   |<https://bioinfo.uth.edu/ancogenedb/>                                                                   |
@@ -190,7 +191,7 @@ PhenoScanner |<http://www.phenoscanner.medschl.cam.ac.uk/>                      
 ROADMAP      |<https://egg2.wustl.edu/roadmap/web_portal/index.html>                                                  |
 TCGA         |<https://www.cancer.gov/>                                                                               |
 
-#  Gene expression databases
+#  Table S6 - Gene expression databases
 
 **Database** |                  **URL**                                                                               |
 AgeFactDB    |<http://agefactdb.jenage.de/>                                                                           |
@@ -280,7 +281,7 @@ TRI_tool     |<https://www.vin.bg.ac.rs/180/tools/tfpred.php>                   
 TSEM         |<https://hood-price.isbscience.org/research/tsem/>                                                      |
 WeGet        |<https://coexpression.cmbi.umcn.nl/>                                                                    |
 
-# Genomic and sequence databases
+# Table S7 - Genomic and sequence databases
 
 
 **Database** |                  **URL**                                                                               |
@@ -469,7 +470,7 @@ VHLdb        |<http://vhldb.bio.unipd.it/>                                      
 Zikv-CDB     |<http://zikadb.cpqrr.fiocruz.br>                                                                        |
 
 
-#  LncRNA and miRNA databases
+#  Table S8 - LncRNA and miRNA databases
 
 **Database** |                  **URL**                                                                               |
 ComiR        |<http://www.benoslab.pitt.edu/comir/>                                                                   |
@@ -527,7 +528,7 @@ TUMIR        |<http://www.ncrnalab.com/TUMIR/>                                  
 Vir-Mir db   |<http://alk.ibms.sinica.edu.tw/cgi-bin/miRNA/miRNA.cgi>                                                 |
                                                     
 
-#  Metabolic and enzyme databases
+# Table S9 - Metabolic and enzyme databases
 
 **Database** |                  **URL**                                                                               |
 1-CMDb       |<http://slsdb.manipal.edu/ocm/>                                                                         |
@@ -551,7 +552,7 @@ TSEM         |<https://hood-price.isbscience.org/research/tsem/>                
 VMH          |<https://vmh.life/>                                                                                     |
 
 
-#  Proteome and protein-protein interaction databases
+# Table S10 - Proteome and protein-protein interaction databases
 
 **Database** |                  **URL**                                                                               |
 2D-PAGE      |<http://web.mpiib-berlin.mpg.de/cgi-bin/pdbs/2d-page/extern/index.cgi>                                  |
@@ -624,7 +625,7 @@ TRI_tool     |<https://www.vin.bg.ac.rs/180/tools/tfpred.php>                   
 UniHI	       |<http://www.unihi.org/>                                                                                 |
 VDJsolver    |<http://www.cbs.dtu.dk/services/VDJsolver/>                                                             |
   
-# Regulatory databases
+# Table S11 - Regulatory databases
 
 **Database** |                  **URL**                                                                               |
 ChIPSummitDB |<http://summit.med.unideb.hu/summitdb/index.php>                                                        |
@@ -653,7 +654,7 @@ TRANSFAC	   |<http://genexplain.com/transfac/>                                  
 TTSMI        |<http://ttsmi.bii.a-star.edu.sg/>                                                                       |
 
 
-#  Other databases
+#  Table S12 - Other databases
 
 **Database** |                  **URL**                                                                               |
 AAgAtlas     |<http://biokb.ncpsb.org/aagatlas/>                                                                      |
