@@ -1,4 +1,4 @@
-# List of databases contained in the article <article doi here>:
+# List of databases contained in the article <https://doi.org/10.1590/1678-4685-gmb-2020-0203>:
 # Supplementary tables
 
 # Table S1 - Alternative splicing databases
