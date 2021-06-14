@@ -708,6 +708,8 @@ VaDE	       |<http://bmi-tokai.jp/VaDE/>                                        
 
 # For more informations, please visit our paper :)
 
+https://doi.org/10.1590/1678-4685-gmb-2020-0203
+
 
 
 
